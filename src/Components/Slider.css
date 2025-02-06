@@ -1,0 +1,118 @@
+/* Kontejneri kryesor */
+
+
+.slider-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px; /* Hapësira midis kolonave */
+  padding: 20px;
+
+}
+
+/* Kolona */
+.column {
+  width: 18%; /* Për pesë kolona, secila merr 18% të gjerësisë */
+  padding: 15px;
+  border-radius: 1px;
+  border-right: 1px solid #ddd; /* Vijë ndarëse midis kolonave */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.column:last-child {
+  border-right: none; /* Heq vijën ndarëse për kolonën e fundit */
+}
+
+/* Titulli i kolonës */
+.column h2 {
+  font-size: 18px;
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 15px;
+  font-weight: 200;
+  font-family: "Quicksand", serif;
+
+}
+
+/* Grupi i imazheve */
+.images {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px; /* Hapësira midis fotove */
+  overflow-y: auto; /* Lejon scroll nëse ka shumë përmbajtje */
+  max-height: 300px; /* Kufizon lartësinë e përmbajtjes */
+  
+  /* Heq scrollbar-in */
+  scrollbar-width: none; /* Për Firefox */
+}
+
+.images::-webkit-scrollbar {
+  display: none; /* Për Chrome, Safari dhe Edge */
+}
+
+/* Stili për një artikull */
+.image-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.image-item h3 {
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: 600;
+  text-align: center;
+  font-family: "Quicksand", serif;
+
+}
+
+/* Butoni */
+.btn {
+    width: 200px;
+  /* padding: 10px 15px; */
+  margin-top: 10px;
+  background-color: #332f23;
+  color: white;
+  border: none;
+  border-radius: 2px;
+  opacity: 0.8;
+  font-size: 14px;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  font-family: "Quicksand", serif;
+
+}
+
+.btn:hover {
+  background-color: #a1a1a1;
+}
+
+/* Për responsive design */
+@media (max-width: 1024px) {
+  .slider-container {
+    flex-wrap: wrap; /* Kalon në rreshta të shumtë për ekrane më të vegjël */
+  }
+
+  .column {
+    width: 48%; /* Dy kolona për rresht */
+    margin-bottom: 20px;
+    border-right: none; /* Heq vijën ndarëse për rreshtat e ri */
+  }
+}
+
+@media (max-width: 768px) {
+  .column {
+    width: 100%; /* Një kolonë për rresht në ekrane të ngushta */
+  }
+}

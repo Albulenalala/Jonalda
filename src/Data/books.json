@@ -1,0 +1,1072 @@
+[
+  {
+    "id": 1,
+    "title": "Shpendët Album",
+    "description": "Fletore didaktike për parashkollorë",
+    "category": "Botime për të vegjël",
+    "coverImage": "JOURNAL_3",
+    "price": "300 Lekë",
+    "author": "Autori i parë",
+    "fullDescription": "Fletore didaktike e përshtatur për fëmijët parashkollorë. Është rasti që nëpërmjet vizatimeve dhe ngjyrosjes, fëmijët të mësojnë dhe të shtojnë njohuritë për shpendët si dhe të bëjnë dallimin e tyre në të buta dhe të egra. Nëpërmjet bisedimit me ta u jepet njohuri e kuriozitet edhe për jetën e shpendëve e dobinë e tyre. Qëllimi është që fëmijët të vizatojnë, të ngjyrosin dhe të mësojnë në prani të të rriturve apo edhe të pavarur."
+  },
+
+  {
+    "id": 2,
+    "title": "Insektet Album",
+    "description": "Fletore didaktike për parashkollore ",
+    "category": "Botime për fëmijë",
+    "coverImage": "JOURNAL_4",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Insektet janë specie të bezdisur që fëmijët nuk i pëlqejnë në praktikë por prezenca e tyre është një realitet në jetën tonë. Ata duhet të edukohen për pranin e tyre dhe të përgatiten për tu mbrojtur. Me këtë fletore ata jo vetëm dallojnë insektet, ngjyrosin disa prej tyre por edhe informohen nga të rriturit për to. Vizatimet dhe ngjyrosja është një mënyrë për ballafaqim virtual të tyre me disa insekte, për të shtuar kuriozitetin dhe njohuritë. Nëpërmjet punës së pavarur fëmijët aktivizohen edhe për të fiksuar dhe shkruar emrat e disa prej insekteve."
+  },
+  {
+    "id": 2.1,
+    "title": "Lojëra Zbavitëse",
+    "description": "Fletore didaktike për parashkollore ",
+    "category": "Botime për fëmijë",
+    "coverImage": "L1.jpeg",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Blloku me format B5 është krijuar për të ofruar argëtim dhe zhvillim kreativ për fëmijët. Përmban vizatime gjysmë të gatshme që mund të plotësohen dhe ngjyrosen, si dhe një gamë aktivitetesh si rebuse, enigma, dhe lojëra. Këto ushtrime synojnë të argëtojnë fëmijët në mënyrë të pavarur dhe të stimulojnë inteligjencën e tyre.\n\nBlloku përbëhet nga 120 faqe me letër të posaçme për vizatim, të përshtatur për përdorim me lapsa, ngjyra, ose mjete të tjera vizatimore. Ky produkt jo vetëm që ofron një platformë për kreativitet dhe zbavitje, por është gjithashtu edukativ dhe ndihmon në zhvillimin e aftësive të zgjidhjes së problemeve.\n\nÇmimi i kopertinës: 300 lekë."
+},
+  {
+    "id": 2.2,
+    "title": "Lojëra Zbavitëse",
+    "description": "Fletore didaktike për parashkollore ",
+    "category": "Botime për të vegjël",
+    "coverImage": "L2.jpeg",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Blloku me format B5 është krijuar për të ofruar argëtim dhe zhvillim kreativ për fëmijët. Përmban vizatime gjysmë të gatshme që mund të plotësohen dhe ngjyrosen, si dhe një gamë aktivitetesh si rebuse, enigma, dhe lojëra. Këto ushtrime synojnë të argëtojnë fëmijët në mënyrë të pavarur dhe të stimulojnë inteligjencën e tyre.\n\nBlloku përbëhet nga 120 faqe me letër të posaçme për vizatim, të përshtatur për përdorim me lapsa, ngjyra, ose mjete të tjera vizatimore. Ky produkt jo vetëm që ofron një platformë për kreativitet dhe zbavitje, por është gjithashtu edukativ dhe ndihmon në zhvillimin e aftësive të zgjidhjes së problemeve.\n\nÇmimi i kopertinës: 300 lekë."
+},
+  {
+    "id": 2.3,
+    "title": "Lojëra Zbavitëse",
+    "description": "Fletore didaktike për parashkollore ",
+    "category": "Botime për të vegjël",
+    "coverImage": "L3.jpeg",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Blloku me format B5 është krijuar për të ofruar argëtim dhe zhvillim kreativ për fëmijët. Përmban vizatime gjysmë të gatshme që mund të plotësohen dhe ngjyrosen, si dhe një gamë aktivitetesh si rebuse, enigma, dhe lojëra. Këto ushtrime synojnë të argëtojnë fëmijët në mënyrë të pavarur dhe të stimulojnë inteligjencën e tyre.\n\nBlloku përbëhet nga 120 faqe me letër të posaçme për vizatim, të përshtatur për përdorim me lapsa, ngjyra, ose mjete të tjera vizatimore. Ky produkt jo vetëm që ofron një platformë për kreativitet dhe zbavitje, por është gjithashtu edukativ dhe ndihmon në zhvillimin e aftësive të zgjidhjes së problemeve.\n\nÇmimi i kopertinës: 300 lekë."
+},
+
+  {
+    "id": 3,
+    "title": "Shkronjat e Shtypit",
+    "description": "Fletore pune për parashkolloret dhe nxënësit e klases së parë (e modeluar)",
+    "category": "Botime për të vegjël",
+    "coverImage": "JOURNAL_5",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Fletore pune per nxenesit e klases se pare (e modeluar)"
+  },
+
+  {
+    "id": 4,
+    "title": "Shkronjat e Dorës",
+    "description": "Fletore pune për nxënësit e klases së parë (e modeluar)",
+    "category": "Botime shkollore",
+    "coverImage": "JOURNAL_6",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Fletore pune per nxenesit e klases se pare (e modeluar)"
+  },
+
+  {
+    "id": 5,
+    "title": "Zemrat Shtegëtojnë - Poezi",
+    "description": "Poezi",
+    "category": "Botime për të rritur",
+    "coverImage": "JOURNAL_7",
+    "price": "300 Lekë",
+    "author": "Maliq Torra",
+    "fullDescription": "Autori në hyrje të librit shkruan për lexuesin: Përpara ke shpirtin e hapur të një krijuesi modest, ke botën e tij që jeton nën makthin e vazhdueshëm të së pathënës, të së pamundurës tunduese e sfilitëse. Jam vizitor i rastësishëm në këtë univers të pafundmë. Ashtu siç erdha në këtë botë të trazuar nga vorbulla e vluar e çoroditjes, po ashtu do të iki, i përzënë nga hiri i harresës, duke ngelur një imazh i përkohshëm në ndonjë varg a rresht nekrologjie në ditën e fundit të ekzistencës e të qenit i paqenë. Erdha për të jetuar, jetoj duke ëndërruar, do iki i ‘përzënë nga ngopja me jetë’. Kaq është jeta, ky është kuptimi i saj. Lexim të këndshëm!"
+},
+  {
+    "id": 5.101,
+    "title": "Mali i Vashës",
+    "description": "Vëllim me tregime nga Astrit Bishqemi.",
+    "category": "Botime për të rritur",
+    "coverImage": "R1.jpg",
+    "price": "300 Lekë",
+    "author": "Astrit Bishqemi",
+    "fullDescription": "Vëllim me tregime nga Astrit Bishqemi, një prej autoreve shqiptare më të lexuar të letërsisë për fëmijë. Tregimet janë për moshën e nxënësve të shkollës 9-vjeçare. Libri ka 96 faqe dhe kushton 300 lekë. Tregimet e këtij vëllimi trajtojnë problematikën e moshës dhe përcjellin mesazhe edukative që e bëjnë atë të vlefshëm për tu rekomanduar për lexime dhe diskutime kolektive në klasë e jashtë saj. Ky libër është një mundësi e shkëlqyer për fëmijët për të zhvilluar aftësitë e tyre kritike dhe për të mësuar mësime të vlefshme në jetën e përditshme."
+    },  
+    {
+    "id": 5.2,
+    "title": "Maska dhe fytyra",
+    "description": "Fabulistikë",
+    "category": "Botime për të rritur",
+    "coverImage": "R2.jpg",
+    "price": "300 Lekë",
+    "author": "Shefi Doksani",
+    "FULLdescription": "Libër me fabula në vargje me të cilat Autori Shefi Doksani vjen përpara lexuesit pas një përvoje të gjatë krijimtarie në prozë e në poezi. Autori i cili jeton dhe punon në Itali sjell një tematikë të gjerë problematike që jetojnë bashkatdhetarët e tij si në migracion ashtu edhe në vendlindje. Jetesa në Itali e bën më të ndjeshëm ndaj problematikave shoqërore dhe të jetës e karaktereve në vendlindje, ndaj jo në pak fabula përshkrimet dhe thumbimet janë nga tema të tilla. Është një arritje në krijimtarinë e Autorit ndërsa mund të thuhet se tashmë Ai e ka afirmuar veten si një fabulist i mirë krahasuar me krijimtarinë tjetër ku ka eksploruar."
+    },  
+    {
+    "id": 5.3,
+    "title": "Mbret për një ditë",
+    "description": "Mbret Për një Ditë",
+    "category": "Botime për të rritur",
+    "coverImage": "R3.jpg",
+    "price": "300 Lekë",
+    "author": "Algert Siqeca",
+    "fullDescription": "Një libër që prek thellësitë e shpirtit të krijuesit. Përpara ke shpirtin e hapur të një krijuesi modest, ke botën e tij që jeton nën makthin e vazhdueshëm të së pathënës, të së pamundurës tunduese e sfilitëse. Jam vizitor i rastësishëm në këtë univers të pafundmë. Ashtu siç erdha në këtë botë të trazuar nga vorbulla e vluar e çoroditjes po ashtu do të iki, i përzënë nga hiri i harresës, duke ngelur një imazh i përkohshëm në ndonjë varg a rresht nekrologjie në ditën e fundit të ekzistencës e të qenit i paqenë. Erdha për të jetuar, jetoj duke ëndërruar, do iki i ‘përzënë nga ngopja me jetë"
+  }, 
+   {
+    "id": 5.4,
+    "title": "Më duaj edhe një herë",
+    "description": "Më duaj edhe një herë",
+    "category": "Botime për të rritur",
+    "coverImage": "R4.jpg",
+    "price": "300 Lekë",
+    "author": "Maliq Torra",
+    "fullDescription": "Disa libra të botuar, një përvojë të pasur jetësore për jetën në fshat e në qytet si mësues dhe njohës i mirë jetës rurale Maliq Torra vjen para lexuesit me librin e tij ku ka përmbledhur 350 poezi të tij. Të shkruara e të pabotuara më parë, në moshën e rinisë e të pjekurisë si krijues, si mësues por sidomos si njohës i mirë i folklorit popullor dhe atë krahinor të zonës Korçë-Pogradec-Librazhd Autori arrin të paraqes rritjen e tij si krijues tashmë i pjekur artistikisht."
+    }, 
+    {
+    "id": 5.5,
+    "title": "Mësuesi Alien",
+    "description": "Ky është një përshkrim i librit të pestë.",
+    "category": "Botime për femijë",
+    "coverImage": "R5.jpg",
+    "price": "400 Lekë",
+    "author": "Brus Kovil",
+    "fullDescription": "Një roman interesant që e bënë fëmijën pasionant dhe të dashuruar pas leximit. Klasa nuk di asgjë për atë që kishte ndodhur. Suzana e kupton se mësuesi i ri është vërtet i çuditshëm. Por ajo vetëm se e mendon kështu deri në momentin kur e vërtetoi. Zoti Smith, në të vërtetë është një Alien. Suzanën nuk e beson askush në fillim përveç Piterit, nxënësi më i zgjuar i klasës. Ata të dy zbulojnë planet e tmerrshme të mësuesit të tyre i cili do të eksperimentonte me nxënësit e klasës. U duhej që të vepronin shpejtë për të shmangur një katastrofë. Vetëm shkathtësia dhe zgjuarësia e tyre mund të hiqnin qafe atë vizitor jashtëtoksor dhe të shpëtonin klasën nga një fat më i keq se testet e matematikës..."
+    }, 
+  {
+    "id": 5.6,
+    "title": "Shkolla në qytetin jashtëtokësor",
+    "description": "Roman për adoleshentë.",
+    "category": "Botime për të rinjtë",
+    "coverImage": "R6.jpg",
+    "price": "400 Lekë",
+    "author": "Shanon Hale",
+    "fullDescription": "Libri i serisë Princesha e Akademisë, i shkrimtares, Shanon Hale, vjenë për herë të parë në shqip, nga Shtëpia Botuese “Jonalda” me 144 faqe dhe çmim kopertine 400 lekë. Shqipëroi: Daniela Proko, Redaktoi dhe përshtati për botim: Zylyftar Plaku. Kujtes! Nëse e fillon për ta lexuar këtë libër nuk do të mundesh që të shkëputesh, pa e mabaruar. “Ti duhet të mësosh, të punosh dhe të luftosh për të arritur diku. Asgjë që ti e fiton lehtë, që nuk të përket dhe nuk e meriton me punë e dinjitet, nuk mund ta gëzosh”. Ky është mesazhi që përcjell autorja, me anë të këtij romani. Libri i shkrimtares së shquar amerikane, për fëmijë, Shanon Hale, vjen për herë të parë në shqip. Ndërsa ngjarjet janë vendosur në një qytet jashtëtokësor dhe personazhet janë njerëz të vërtetë, zana dhe alienë, tematika është tokësore, ajo që ndodh midis nesh: Aftësimi për tu përshtatur në një konkurrencë dhe luftë për të mbijetuar midis qenieve dhe grupimeve të ndryshme njerëzish, që herë-herë janë të pashpirt, intrigues, karrierist, ndërsa të tjerët miqësor dhe përkrahës të së mirës dhe përparimit. Në vorbullën e ngjarjeve, intriguese dhe tërheqëse, lexuesi do të besoj arsyen pse ky libër është nga më të lexuarit dhe më të suksesshmit për fëmijë."
+    }, 
+     {
+    "id": 5.7,
+    "title": "Prova e vështirë",
+    "description": "Roman për adoleshentë",
+    "category": "Botime për të rinjtë",
+    "coverImage": "R7.jpg",
+    "price": "400 Lekë",
+    "author": "Shanon Hale",
+    "fullDescription": "Roman për adoleshentë. Libri i serisë Princesha e Akademisë 2, i shkrimtares, Shanon Hale, vjen për herë të parë në shqip, nga Shtëpia Botuese “Jonalda” me 140 faqe dhe çmim kopertine 400 lekë. Shqipëroi: Daniela Proko, Redaktoi dhe përshtati për botim: Zylyftar Plaku. Ngjarjet zhvillohen me personazhe njerëz dhe jashtëtoksorë. Dy bebe aliene përfundojnë në tokë, njëra prej të cilave rritet nga një grua që nuk kishte fëmijë. Kur vajza kërkon të vazhdoj shkollën, merret nga alienët dhe, pa e kuptuar as vetë, përfundon në vendlindjen e saj. Ajo, që ishte rritur në tokë, gjeti mamanë e saj, e cila ishte mbretëreshë në planetin ku vajti. Vetë vajza është një princeshë, por këtë nuk ja tregoi askush dhe e zbuloi vet, hap pas hapi. Kjo është një provë e vështirë për atë dhe nëse nuk e kalon nuk e meriton që të njihet dhe të mbaj titullin e një princeshe."
+    }, 
+     {
+    "id": 5.8,
+    "title": "Një ufo në shkëmbin fluturues",
+    "description": "Roman për adoleshentë.",
+    "category": "Botime për të rinjtë",
+    "coverImage": "R8.jpg",
+    "price": "400 Lekë",
+    "author": "Shanon Hale",
+    "fullDescription": "Roman për adoleshentë. Libri i serisë Princesha e Akademisë 3, i shkrimtares, Shanon Hale, vjenë për herë të parë në shqip, nga Shtëpia Botuese “Jonalda” me 160 faqe dhe çmim kopertine 400 lekë. Shqipëroi: Daniela Proko, Redaktoi dhe përshtati për botim: Zylyftar Plaku. Vajza, lexon shumë për të mësuar sekretet, ndeshet e fiton mbi vështirësitë dhe intrigat, duke arritur që të meritojë emrin dhe autoritetin e një princeshe, por është edhe një qenie e zgjuar që shpëton planetin e saj, nga keqdashësit dhe intriguesit brenda së njëjtës lloji. Pastaj ajo vjen përsëri në tokë ku takon gruan që e rriti por edhe gjen dhe merr kushërirën e saj që kishte ardhur bebe dhe ishte rritur, edhe ajo, si një vajzë toksore. Princesha lufton me zanat e zeza dhe të këqia dhe fiton ndërsa lidhet me qenie të tjera nga të tjera galaktika të cilat i viziton dhe krijon lidhje me to."
+    }, 
+    {
+    "id": 5.9,
+    "title": "Princesha me fuqi të rrallë",
+    "description": "Roman për adoleshentë.",
+    "category": "Botime për të rinjtë",
+    "coverImage": "R9.jpg",
+    "price": "400 Lekë",
+    "author": "Shanon Hale",
+    "fullDescription": "Libri i serisë Princesha e Akademisë 4, i shkrimtares, Shanon Hale, vjenë për herë të parë në shqip, nga Shtëpia Botuese “Jonalda” me 176 faqe dhe çmim kopertine 400 lekë. Shqipëroi: Daniela Proko, Redaktoi dhe përshtati për botim: Zylyftar Plaku. Në situata tepër intriguese dhe të vështira, princesha aliene vjen tek lexuesi si një qenie toksore, me ngjarje njerëzore, por me zgjuarësi e veti të rralla, që frymëzojnë çdo fëmijë që ka dëshirë të dijë e të arrijë shumë gjëra në jetë. Princesha jo vetëm arrin që të fitoi popullaritetin dhe dashurinë e qenieve që jetojnë në planetin e saj por edhe tregon se e meriton atë duke e shpëtuar planetin nga të këqijat që i vijnë prej fuqive të tjera. Lexoni…"
+    }, 
+     {
+    "id": 5.10,
+    "title": "Një alien korier në Tokë",
+    "description": "Roman për adoleshentë.",
+    "category": "Botime për të rinjtë",
+    "coverImage": "R10.jpg",
+    "price": "400 Lekë",
+    "author": "Miranda Martin",
+    "fullDescription": "Libri i serisë Princi 2, i shkrimtares së shquar amerikane, Miranda Martin, vjen për herë të parë në shqip me ISBN: 978-9928-250-48-3, nga Shtëpia Botuese “Jonalda” me 140 faqe dhe çmim kopertine 400 lekë. Autorja shquhet për fantazinë dhe romancën skif. Personazhet janë jashtëtokësorë por me mentalitet të shquar njerëzor, të destinuar për të ndryshuar apo për të ndryshuar botën tonë. Autorja sjell fantazi, në jetën njerëzore, për çdo lexues që adhuron të zgjedh e të jetojë me to. Autorja veterane është lindur dhe rritur në Virxhinian Jugore. Shqipëroi nga Anglishtja: Jonida Gjoka. Redaktoi dhe përshtati botimin në gjuhën Shqipe: Zylyftar Plaku. Lexoni: ...Ajo çfarë kam dashur nuk është aspak ajo që kam tani. Por jo çdo dëshirë plotësohet në këtë botë. Sidomos për një vajzë adoleshente dhe dhe jetime, si unë, që nisi një udhëtim për në planetin tjetër, për të gjetur prindërit e saj. Nuk ka qënë aspak e lehtë që të udhëtosh në një rrugë për të cilën as që kë dëgjuar kurrë më parë. Ndonëse Tomi s’është gjë tjetër veçse një magjistar, ai ka qënë një ndihmë e madhe për mua, derisa... rruga ime ndryshoi. U nisa drejt makthit tim të madh. Ndonëse nuk kisha parë asnjëherë një alien, nuk më shkonte në mendje që edhe vetë isha një e tillë..."
+    },
+      {
+    "id": 5.11,
+    "title": "Rruga për në planetin X",
+    "description": "Roman për adoleshentë.",
+    "category": "Botime për të rinjtë",
+    "coverImage": "R11.jpg",
+    "price": "400 Lekë",
+    "author": "Miranda Martin",
+    "fullDescription": "Libri i serisë Princi 2, i shkrimtares së shquar amerikane, Miranda Martin, vjen për herë të parë në shqip me ISBN: 978-9928-250-49-0, nga Shtëpia Botuese “Jonalda” me 132 faqe dhe çmim kopertine 400 lekë. Shqipëroi nga Anglishtja: Jonida Gjoka. Redaktoi dhe përshtati botimin në gjuhën Shqipe: Zylyftar Plaku. Lexoni: ...U nisa për udhëtim, pa e ditur se çfarë më priste. Nuk e kisha idenë as për qytete dhe vendbanime të tjerë në tokë e jo më në jetën e një planeti tjetër. Unë vetë isha një njeri tokësor në mentalitet, por realisht një aliene, jashtëtokësore e rritur në tokë. E vetmja gjë që më shtynte në rrugëtimin e gjatë ishte dëshira për të takuar nënën time të cilën nuk e njihja. Ishte instikti që më shtynte apo magjia e jashtëtokësorve për mua? As vetë nuk isha e sigurt po çuditërisht e vendosur për të ecur në rrugën e gjatë pa e ditur të ardhmen që më priste..."
+    },
+      {
+    "id": 5.12,
+    "title": "Fantazmat e planetit X",
+    "description": "Roman për adoleshentë.",
+    "category": "Botime për të rinjtë",
+    "coverImage": "R12.jpg",
+    "price": "400 Lekë",
+    "author": "Miranda Martin",
+    "fullDescription": "Roman për adoleshentë. Libri i serisë Princi 3, i shkrimtares së shquar amerikane, Miranda Martin, vjen për herë të parë në shqip me ISBN: 978-9928-250-50-6, nga Shtëpia Botuese “Jonalda” me 132 faqe dhe çmim kopertine 400 lekë. Shqipëroi nga Anglishtja: Jonida Gjoka. Redaktoi dhe përshtati botimin në gjuhën Shqipe: Zylyftar Plaku. Lexoni: ...Udhëtimi për në planetin ku më prisnin nuk ishtë i lehtë. Një jetë e panjohur për mua por edhe me shumë të papritura. Atje nuk jetonin njerëz por qenie që herë mernin pamjen e njerëzve tokësorë, herë qenie të padukshme, magjistar, dragonjë, fantazma, zota të qiellit, të tokës, të detrave, të dragonjëve të magjistarëve etj. Një rrugë që, për mua kalonte nëpër të panjohura por që shoqëruesi im një kryemagjistarmë mbronte, më këshillonte, më drejtonte por edhe më provokonte për t’ma bërë rrugën sa më të lehtë që të arrija në destinacionin e duhur. Nëse prisja me padurin që të takoja nënën time Mbretëreshë nuk e prisja që ftohtësia dhe armiqësia e saj të ishte më e keqja e mundshme..."
+    }, 
+     {
+    "id": 5.13,
+    "title": "Vetëm pesëmbëdhjetë",
+    "description": "Është roman i shkruar nga Autorja Sofika Bonjaku, vlonjatja që punon dhe jeton në Selanik...",
+    "category": "Botime për të rritur",
+    "coverImage": "R13.jpg",
+    "price": "400 Lekë",
+    "author": "Sofika Bonjaku,",
+    "fullDescription": "Është roman i shkruar nga Autorja Sofika Bonjaku, vlonjatja që punon dhe jeton në Selanik. Romani është një libër i bukur si për moshat rinore ashtu edhe për të rritur. Përvojë nga jeta apo një fabul e gjetur më së miri autorja e sjell për lexuesin me një gjuhë të thjeshtë tregimtare fatin e një vajze të dhunuar në familjen e sajë nga qëndrimi patriarkal i prindërve të saj. Por bukuria e vajzës bënë që ajo të gjuhet dhe të përdhunohet nga dikush. Kjo është arsyeja dhe momenti që vajza largohet nga shtëpia. Po për ku?! Një rrugë pa adresë, një kërkim të fatit pa asnjë objektiv. Mjafton të ik e të ik, të largohet nga fati i saj i zi. Por jeta nuk e tradhton. Njerëz të mirë ka ashtu siç ka edhe të këqij. Një jetë me peripeci në migracion, njohja e përdhunuesit dhe kthimi në shtëpinë ku vajza u lind dhe u rrit janë surpriza të këndshme por mjaft emocionuese për lexuesin. Vajza bëhet nënë, më pas grua dhe gjyshe ndërsa autorja me figuracione letrare dhe tregim narrativ ku personazhi kryesor është në vetën e parë të mban të mbërthyer në faqet e tij. Situata xhelozie, patriarkalizmi, përdhunimi, dashurie të sinqertë, situata njerëzore, në marrëdhënie normale dhe të ngarkuara, në situata ngjarjesh ku të droguarit bëhen pjesë e jetës së personazhit kryesor, në momente intrigash dhe momente të përzishme, në roman vjen një jetë e trazuar e një emigranteje shqiptare rrugëve të botës nisur nga pamundësia e jetës në vendlindje por edhe keqformimit në familjet tona patriarkale."
+    }, 
+     {
+    "id": 5.14,
+    "title": "Ndëshkimi i Mbretit të Zi",
+    "description": "Roman për adoleshentë.",
+    "category": "Botime për të rinjtë",
+    "coverImage": "R14.jpg",
+    "price": "500 Lekë",
+    "author": "Miranda Martin",
+    "fullDescription": "Një adoleshente tokësore zbulohet të jetë një personalitet i rëndësishëm në një planet tjetër, ku është pritur me padurim dhe është mbrojtur nga masat e veçanta. Ajo ishte transferuar nga një princ alien, që ishte kundërshtar i babait të saj dhe kishte marrë besën për ta mbrojtur nga mamaja e saj. Tregimi është i mbushur me intriga midis mbretërive të ndryshme, përfshirë asgjesimin e mbretit më të keq të Planetit X, i cili kishte vrarë babain e saj. Shoku i saj i fëmijërisë, Egi, i cili ishte rritur me të pa e ditur identitetin e tij, është tani princ alien dhe aleat i saj si princeshë e Mbretërisë së Bardhë dhe si Zot i Qiellit në planetin ku ajo është lindur."
+},
+
+  {
+    "id": 6,
+    "title": "Ngjyros dhe Mëso - Cfarë do të bëhem...",
+    "description": "Fletore didaktike për parashkollore ",
+    "category": "Botime për të vegjël",
+    "coverImage": "1.JPG",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Është fletore didaktike me figura gjysëm të gatshme për t'u vizatuar, ngjyrosur dhe shkruar. E përshtatur për fëmijët parashkollorë. Nxit dëshirat e fëmijëve për profesione të ndryshme në jetë dhe i aktivizon në punë të pavarur, në shtëpi apo kopësht. Fëmijët ushtrohen për lexim dhe shkrim me gërma kapitale, pasurojnë fjalorin dhe dijet për botën që i rrethon, si edhe i aftëson për nivelet më të larta shkollore."
+  },
+
+  {
+    "id": 7,
+    "title": "Ngjyros dhe Mëso - Familja Ime",
+    "description": "Fletore didaktike për parashkollore ",
+    "category": "Botime për të vegjël",
+    "coverImage": "2.JPG",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Është fletore didaktike e përshtatur për fëmijët parashkollorë me figura gjysëm të gatshme për t'u vizatuar dhe ngjyrosur. Nëpërmjet vizatimeve, bisedave dhe veprimtarisë praktike për të ngjyrosur, ngulitë tek fëmijët konceptin e familjes dhe pjestarëve të saj. Ata aktivizohen në punë të pavarur, në shtëpi apo kopësht, por edhe edukohen me dashurinë dhe respektin për familjarët e tyre. Qëllimi është që edhe të ushtrohen për lexim dhe shkrim me gërma kapitale."
+  },
+  {
+    "id": 8,
+    "title": "Ngjyros dhe Mëso - Frutat",
+    "description": "Fletore didaktike për parashkollore ",
+    "category": "Botime për të vegjël",
+    "coverImage": "3.JPG",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Fletorja është e përshtatur për moshën parashkollore, me qëllim njohjeje dhe për të dalluar frutat nga perimet. Nëpërmjet vizatimeve e ngjyrosjes, fëmija fikson dhe bën dallimet ndërmjet tyre. Ata aktivizohen në punë të pavarur, në shtëpi apo kopësht, edukohen dhe ushtrohen për njohjen e gërmave kapitale duke bërë hapat e parë për shkrim të tyre."
+  },
+  {
+    "id": 9,
+    "title": "Ngjyros dhe Mëso - Insektet",
+    "description": "Fletore didaktike per parashkollore ",
+    "category": "Botime për të vegjël",
+    "coverImage": "4.JPG",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Insektet janë specie të bezdisur që fëmijët nuk i pëlqejnë në praktikë, por prezenca e tyre është një realitet në jetën tonë. Ata duhet të edukohen për praninë e tyre dhe të përgatiten për t'u mbrojtur. Me këtë fletore, ata jo vetëm dallojnë insektet, ngjyrosin disa prej tyre, por edhe informohen nga të rriturit për to. Vizatimet dhe ngjyrosja janë një mënyrë për ballafaqim virtual të tyre me disa insekte, për të shtuar kuriozitetin dhe njohuritë. Nëpërmjet punës së pavarur, fëmijët aktivizohen edhe për të fiksuar dhe shkruar emrat e disa prej insekteve."
+  },
+  {
+    "id": 10,
+    "title": "Ngjyros dhe Mëso - Jam Sportist",
+    "description": "Fletore didaktike për parashkollore ",
+    "category": "Botime për të vegjël",
+    "coverImage": "5.JPG",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Fletore e përshtatur për fëmijët parashkollorë. Ata e duan sportin ndërsa nevojitet që të njohin llojet e sporteve që në vogëli. Kjo i bën kurioz dhe zgjedhin njërin prej llojit që e bëjnë të tyre. Fletorja ka pikërisht këtë qëllim dhe mision: Njohjen me lloje të ndryshme të sporteve dhe edukimi i dashurisë për ta. Mësuesja, prindërit, të rriturit kanë arsye dhe shkak, që nisur nga kjo fletore, të nxisin fëmijën për punë të pavarur dhe për kuriozitet të shtuar. Vizatimet dhe ngjyrosja është njëra mënyrë e cila e kombinuar me biseda dhe punë praktike edukon fëmijët që fiksojnë, flasin dhe shkruajnë për llojet e sporteve."
+  },
+  {
+    "id": 11,
+    "title": "Ngjyros dhe Mëso - Kafshët e Egra",
+    "description": "Fletore didaktike për parashkollore ",
+    "category": "Botime për të vegjël",
+    "coverImage": "6.JPG",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Fletore didaktike e përshtatur për fëmijët parashkollorë. Është rasti që nëpërmjet vizatimeve dhe ngjyrosjes, fëmijët të mësojnë dhe njohin disa kafshë të egra, që nuk jetojnë në ose pranë shtëpisë së banuar. Nëpërmjet bisedimit me ta u jepet njohuri edhe për jetën e kafshëve dhe dobinë e tyre. Qëllimi është që fëmijët të vizatojnë, të ngjyrosin dhe të mësojnë në prani të të rriturve apo edhe të pavarur."
+  },
+  {
+    "id": 12,
+    "title": "Ngjyros dhe Mëso - Kopshti Im",
+    "description": "Fletore didaktike për parashkollore ",
+    "category": " Botime për të vegjël",
+    "coverImage": "7.JPG",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Vete apo jo në kopësht, nëpërmjet kësaj fletoreje fëmijët njihen me mjedisin ku edukohet atje, me disa nga mjetet që përdoren dhe punohet në kopshte. Kur vizaton dhe ngjyrosjes, fëmija mëson dhe njeh më tepër mjedisin, lodrat, mjetet, përpiqet të shkruaj emrat e tyre dhe bisedon për ta. Nëpërmjet bisedave u jepet njohuri më të gjera edhe për përdorimin e mjeteve dhe objekteve në mënyrë të pavarur por edhe të përbashkëta, për të forcuar mardhëniet midis tyre në kolektiv."
+  },
+  {
+    "id": 13,
+    "title": "Ngjyros dhe Mëso - Lodrat e Mia",
+    "description": "Fletore didaktike për parashkollore ",
+    "category": " Botime për të vegjël",
+    "coverImage": "8.JPG",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Fletore didaktike për parashkollorë e cila ka për qëllim që të shtojë njohuritë për lodrat dhe përdorimin e tyre, të shtojë fjalorin e fëmijës, të aktivizojë fëmijën në punë të pavarur dhe të aftësojë atë në dallimin dhe përdorimin e ngjyrave. Përveç këtyre, fëmijët mund të nisin që të shkruajnë gërmat kapitale në dizenjimin që është parashikuar në sejcilën faqe të fletores. E përshtatur për punë të pavarur dhe/ose orë të veçanta në grupet e fëmijëve në kopshte."
+  },
+  {
+    "id": 14,
+    "title": "Ngjyros dhe Mëso - Orenditë Shtëpiake",
+    "description": "Fletore didaktike për parashkollore ",
+    "category": "Botime për të vegjël",
+    "coverImage": "9.JPG",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Fletore didaktike për parashkollorë. Synon që të shtojë njohuritë dhe të rrisë kujdesin në përdorimin e tyre, të shtojë fjalorin e fëmijës. Me metodën nga e njohura në të panjohurën, nga e thjeshta tek më e ndërlikuara, aktivizohen fëmijët në punë të pavarur, aftësohen në përdorimin e ngjyrave, nisin të shkruajnë gërma kapitale në dizenjimin e përshtatur në sejcilën faqe të fletores. E përshtatur për punë të pavarur dhe/ose orë të veçanta në grupet e fëmijëve në kopshte."
+  },
+  {
+    "id": 15,
+    "title": "Ngjyros dhe Mëso - Perimet",
+    "description": "Fletore didaktike për parashkollorë ",
+    "category": "Botime për të vegjël",
+    "coverImage": "10.JPG",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Fletorja është e përshtatur për moshën parashkollore, me qëllim që të njohin perimet por edhe t’i dallojnë ato nga frutat. Kjo është menduar nëpërmjet vizatimeve të thjeshta dhe ngjyrosjes sipas dëshirës, por edhe si shkasë për të nxitur kuriozitet, pyetje dhe biseda me të rriturit. Nëpërmjet vizatimeve e ngjyrosjes fëmija fikson dhe bën dallimet, si dhe dobinë që kanë perimet për shëndetin e tyre."
+  },
+  {
+    "id": 16,
+    "title": "Ngjyros dhe Mëso - Shpendët",
+    "description": "Fletore didaktike për parashkollore ",
+    "category": "Botime për të vegjël",
+    "coverImage": "111.jpg",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Fletore didaktike e përshtatur për fëmijët parashkollorë. Është rasti që nëpërmjet vizatimeve dhe ngjyrosjes, fëmijët të mësojnë dhe të shtojnë njohuritë për shpendët si dhe të bëjnë dallimin e tyre në të buta dhe të egra. Nëpërmjet bisedimit me ta u jepet njohuri e kuriozitet edhe për jetën e shpendëve e dobinë e tyre. Qëllimi është që fëmijët të vizatojnë, të ngjyrosin dhe të mësojnë në prani të të rriturve apo edhe të pavarur."
+  },
+  {
+    "id": 17,
+    "title": "Ngjyros dhe Mëso - Veshjet e Mia",
+    "description": "Fletore didaktike për parashkollorë ",
+    "category": "Botime për fëmijë",
+    "coverImage": "121.JPG",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Fletore didaktike e përshtatur për fëmijët parashkollorë për punë të pavarur apo edhe në grupet e kopshteve. Është rasti që nëpërmjet vizatimeve dhe ngjyrosjes, fëmijët të mësojnë dhe të shtojnë njohuritë për veshjet e ndryshme sportive, dimërore, verore, për punë, për në kopsht, për vizita, etj. Qëllimi është që fëmijët të vizatojnë, të ngjyrosin dhe të bëjnë dallimin e llojeve të veshjeve për djem dhe për vajza. Materiali aktivizon fëmijët që të aktivizohen në prani të të rriturve apo edhe të pavarur."
+  },
+  {
+    "id": 18,
+    "title": "Ngjyros ",
+    "description": " Miqtë e Fermës ",
+    "category": "Botime për të vegjël",
+    "coverImage": "131.jpg",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Fletorja ka njohuri dhe veprimtari për fëmijët e moshës që përgatiten për të shkuar në klasën e parë. Ka për qëllim njohuritë për kafshët, shpendët dhe veprimtarinë në fermë (fshat). Nëpërmjet figurave, vizatimeve dhe ngjyrosjes jepen njohuri për gjallesat, kuriozitete dhe enigma të përshtatura për moshën. Fëmija ngjyros, shkruan, aktivizon të menduarit dhe shuan kuriozitetet që lindin hap pas hapi në materialin e servirur. Materiali i zgjedhur dhe i përgatitur metodikisht dhe psikologjikisht për moshën parashkollore është shumë tërheqës dhe edukativ. Nëpërmjet veprimtarisë praktike, fëmija merr njohuri, vizaton, ngjyros, shkruan, vë në përdorim kujtesën dhe njohuritë, nxitet për të pyetur e biseduar duke pasuruar edhe fjalorin. Është mënyra më e mirë për ta parapërgatitur për në klasën e parë."
+  },
+
+  {
+    "id": 19,
+    "title": "Hipopotamit i dhëmb dhëmbi ",
+    "description": " Hippo's Toothache  ",
+    "category": "Botime për fëmijë",
+    "coverImage": "Mouse1.jpg",
+    "price": "100 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Ky është një tregim i mbushur me humor dhe mësime edukative për fëmijët, që tregon për kafshët dhe shpendët banorë të xhunglës. Personazhi kryesor, një hipopotam i vogël, shqetësohet nga dhëmbi i tij i sëmurë, duke ulëritur nga dhimbja. Tregimi është një mjet i shkëlqyer për të mësuar fëmijët rreth higjenës personale, duke i ndihmuar ata të kuptojnë rëndësinë e kujdesit për shëndetin e dhëmbëve, përmes një ngjarjeje tërheqëse dhe humoristike.\n\nLibri ka 16 faqe dhe është i shkruar në gjuhën Anglisht dhe Shqip, duke i mundësuar fëmijës të lexojë në të dyja gjuhët për të krahasuar dhe mësuar. Çdo faqe përmban ilustrime vizatimorë, që fëmijët mund t’i ngjyrosin sipas dëshirës së tyre, duke e bërë këtë libër shumë më tërheqës.\n\nPërmes tregimit, leximit dygjuhësh dhe mundësisë për ngjyrosje, libri është një burim i shkëlqyer edukativ për fëmijët, mësuesit dhe prindërit që duan t’u mësojnë atyre gjuhën angleze në një mënyrë argëtuese dhe të dobishme."
+  },
+
+  {
+    "id": 20,
+    "title": "Hëna Zhduket",
+    "description": " The dissapearing Moon",
+    "category": "Botime për fëmijë",
+    "coverImage": "Hena zhduket.jpg",
+    "price": "100 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Ky libër përmban dy tregime të shkurtër për fëmijë, të titulluara 'Ketri i trembur' dhe 'Bufi plak i zgjuar'. Tregimet janë një vijim i njëri-tjetrit dhe përshkruajnë arsyet pse drita e hënës duket dhe zhduket gjatë natës. Fabula shpjegohet në dy gjuhë, Anglisht dhe Shqip, duke lejuar fëmijët të lexojnë pa u shqetësuar në njërën gjuhë apo në të dyja. Çdo faqe përmban ilustrime vizatimorë, që fëmijët mund t'i ngjyrosin sipas dëshirës së tyre. Ky libër është një burim edukativ dhe argëtues, duke përfshirë tregimin, leximin dygjuhësh dhe mundësinë për ngjyrosje. Është i përshtatshëm për mësuesit dhe prindërit që duan t'u mësojnë fëmijëve gjuhën angleze dhe si material plotësues për thellimin e dijeve në këtë fushë. \n\nTregimi është shkruar nga Dori H. Butler, shqipëruar nga Valbona Bitri, ilustruar nga Ami Plaku dhe përshtatur dhe botuar për fëmijë nga Zylyftar Plaku. Libri ka format B5 dhe çmim kopertine 100 lekë."
+  },
+  {
+    "id": 21,
+    "title": "Jam e shëndetëshme",
+    "description": " I am Healthy",
+    "category": "Botime për fëmijë",
+    "coverImage": "ok.jpg",
+    "price": "100 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Një fëmijë i shëndetshëm duhet medoemos të ushqehet mirë, të ketë veprimtari sportive, të shëtisë në ajër të pastër, të mbajë higjenë të përsosur etj. Tregimi ka në qendër një vajzë që është e shëndetshme dhe tregon si vepron ajo në jetën e përditshme. Ky mesazh vjen nëpërmjet tregimit, ku krahas fjalorit të pasur dhe mesazhit edukativ, ai tregohet në dy gjuhë: Anglisht dhe Shqip. Çdo faqe ka ilustrime vizatimorë që fëmijët mund t'i ngjyrosin, duke e bërë librin tërheqës dhe edukativ. Libri është ideal për mësuesit dhe prindërit që dëshirojnë t'u mësojnë fëmijëve gjuhën angleze, dhe është i rekomanduar si material plotësues për përmirësimin e njohurive të fëmijëve në këtë fushë. Tregimi është shkruar nga Kira Fred, shqipëruar nga Valbona Bitri, ilustruar nga Ami Plaku dhe përshtatur e botuar për fëmijë nga Zylyftar Plaku. Libri ka format B5 dhe çmim kopertine 100 lekë."
+  },
+  {
+    "id": 22,
+    "title": "Largou Diell",
+    "description": " Go Away, Sun ",
+    "category": "Botime për fëmijë",
+    "coverImage": "Largohu diell.jpg",
+    "price": "100 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Është një përrallë e bukur, edukative dhe shkencore për fëmijë. Personazhet janë kafshë dhe shpendë, por në qendër të mesazhit është ideja se pa dritën dhe pa diellin, nuk mund të ketë jetë në tokë. Kafshët dhe shpendët që jetojnë në mënyra të ndryshme – natën, ditën, nën tokë apo mbi tokë – të gjithë kanë nevojë për dritën e diellit. Ky mesazh vjen përmes tregimit, që tregohet në dy gjuhë: Anglisht dhe Shqip. Libri është shoqëruar me ilustrime vizatimorë që fëmijët mund t'i ngjyrosin, duke e bërë librin shumë tërheqës dhe edukativ. Tregimi është shkruar nga Pam Bull, shqipëruar nga Valbona Bitri, ilustruar nga Ami Plaku dhe përshtatur e botuar për fëmijë nga Zylyftar Plaku. Libri ka format B5 dhe çmim kopertine 100 lekë."
+  },
+  {
+    "id": 23,
+    "title": "Loja e Mëndjes ",
+    "description": " The Mind Game ",
+    "category": "Botime për fëmijë",
+    "coverImage": "Loja e mendjes.jpg",
+    "price": "100 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Ky tregim i bukur, në këtë libër, vjen në dy gjuhët, Anglisht dhe Shqip, me ilustrime vizatimorë të gatshëm për tu ngjyrosur nga fëmijët, duke e bërë librin edhe më tërheqës për ata. Fabula është e thjeshtë dhe edukative. Në një familje, fëmija është i shqetësuar sepse nuk mund të luajë me lodrat në kompjuter për shkak të një defekti. I ati nuk ja rregullon sepse dëshiron që fëmija të lexojë libra. I mërzitur, djali fillon të lexojë një libër, më pas dy e të tjerë, duke u bërë një lexues i mirë. Kjo bën që ai të largohet nga lodrat kompjuterike, i bindur se kompjuteri mund të jetë një mjet shumë i mirë pune, pasi të rritet. Fëmijët do ta pëlqejnë si tregimin ashtu edhe mesazhin që përcjell, duke pasur parasysh faktin se ata harxhojnë më shumë kohë duke luajtur në telefona dhe kompjutera sesa duke lexuar libra. Tregimi është i shoqëruar me ilustrime dhe një variant dy gjuhësh, Anglisht-Shqip. Ka vlera mësimore, sidomos për fëmijët, mësuesit dhe prindërit që janë në procesin e mësimit dhe përvetësimit të këtyre gjuhëve. Tregimi është shkruar nga Stefen Kosgrov, shqipëruar nga Valbona Bitri, ilustruar nga Karolin Laporte dhe përshtatur e botuar për fëmijë nga Zylyftar Plaku. Libri ka format B5 dhe çmim kopertine 100 lekë."
+  },
+  {
+    "id": 24,
+    "title": "Miushi i bibliotekës ",
+    "description": " Library Mouse",
+    "category": "Botime për fëmijë",
+    "coverImage": "Mouse.jpg",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Tregim Anglisht-Shqip, i ilustruar, për fëmijë. Libri ka 48 faqe dhe është shqipëruar në mënyrën më të duhur për fëmijët. Vjen në botimin dygjuhësh, me qëllimin që jo vetëm të ofrojë një shqipërim të përsosur, por edhe të ndihmojë fëmijët që mësojnë gjuhën angleze të ushtrohen në leximin dhe fjalorin dygjuhësh. Libri është ideal për mësuesit që u mësojnë fëmijëve gjuhën angleze, dhe rekomandohet si material plotësues për thellimin e dijeve në këtë fushë. Libri ka 48 faqe, me ngjyra, dhe çmim kopertine 300 lekë."
+  },
+  {
+    "id": 25,
+    "title": "Nazemadhi",
+    "description": " Tarell's Taste Buds",
+    "category": "Botime për fëmijë",
+    "coverImage": "Nazemadhi.jpg",
+    "price": "100 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Ka fëmijë që bëjnë naze në të ushqyer. Tekanjozët janë një shqetësim i zakonshëm për shumë prindër, gjyshër dhe gjyshe. Kjo është tema që trajtohet në tregimin (Përrallën) që ju sjellim në këtë libër. Personazhi kryesor është një djalë që ka misionin të edukojë lexuesin e vogël për të ushqyerit pa naze dhe pa përzgjedhje të rastësishme. Mesazhi vjen nëpërmjet këtij tregimi në dy gjuhët, Anglisht dhe Shqip, dhe shoqërohet me ilustrime vizatimorë për tu ngjyrosur, gjë që e bën librin shumë tërheqës. Tregimi është shkruar nga Alyse Sweenry (Alis Suinri), shqipëruar nga Valbona Bitri, ilustruar nga Ami Plaku dhe përshtatur e botuar për fëmijë nga Zylyftar Plaku. Libri ka format B5 dhe çmim kopertine 100 lekë."
+  },
+  {
+    "id": 26,
+    "title": "Ndryshimet ",
+    "description": " Changes",
+    "category": "Botime për fëmijë",
+    "coverImage": "Ndryshimet.jpg",
+    "price": "100 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Fakti që Bota është në ndryshim të vazhdueshëm nuk konceptohet lehtë nga fëmijët. Ndryshojnë njerëzit, natyra, jeta e përditshme, kafshët dhe shpendët, me të cilët bashkëjetojmë në këtë botë të ndryshueshme. Autori u bën të ditur fëmijëve pikërisht këtë, duke sjellë një vlerë edukative, mësimore, shkencore dhe gjuhësore në këtë botim dygjuhësh, Anglisht-Shqip, me ilustrime vizatimorë për tu ngjyrosur. Tregimi është shkruar nga Bea Silverberg, shqipëruar nga Valbona Bitri, ilustruar nga Ami Plaku dhe përshtatur e botuar për fëmijë nga Zylyftar Plaku. Libri ka format B5 dhe çmim kopertine 100 lekë."
+  },
+  {
+    "id": 27,
+    "title": "Olimpiada e Kafshëve",
+    "description": " Animal Olympics ",
+    "category": "Botime për fëmijë",
+    "coverImage": "Olimpiada.jpg",
+    "price": "100 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Në fillim, majmuni është shumë i gëzuar sepse do të konkuronte në garat sportive për atletikë, që organizohen për kafshët e pyllit. Por pasi mbaroi olimpiada, ai zuri vendin e fundit. U shqetësua, por përse? Këtë përgjigje e keni, por do ta mësoni pasi të lexoni librin që ju sjellim në variantin dy gjuhësh, Anglisht-Shqip, dhe me ilustrime vizatimorë që mund ti ngjyrosni sipas dëshirës. Ky është një tregim që mëson moralin se asnjë nuk është i përsosur, por secili është i zoti në diçka të veçantë nëse punon për ta arritur qëllimin. Tregimi është shkruar nga Xho Slejd, shqipëruar nga Valbona Bitri, ilustruar nga Ami Plaku dhe përshtatur e botuar për fëmijë nga Zylyftar Plaku. Libri ka format B5 dhe çmim kopertine 100 lekë."
+  },
+  {
+    "id": 28,
+    "title": " Supë dhe Sanduic ",
+    "description": " Soup and Sanduic ",
+    "category": "Botime për fëmijë",
+    "coverImage": "Supe.jpg",
+    "price": "100 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Është një tregim i këndshëm që vjen tek lexuesit e vegjël në dy gjuhët, Anglisht dhe Shqip. Në secilën nga faqet ka ilustrime vizatimorë të gatshëm për tu ngjyrosur sipas dëshirës, për të qenë sa më tërheqës. Një djalë është mërzitur duke ngrënë çdo ditë të njëjtin ushqim. Ai e imagjinon se mund të bëjë një sanduiç të cilin dëshiron ta përgatisë vetë. Problemi është se ai e krijon vetëm në mendjen e tij dhe jo në realitet, sepse e mendon shumë të madh. Këtu lindin probleme për të, të cilat mund ti mësoni kur të lexoni tregimin. Ai është i bukur dhe shumë edukativ. Tregimi është shkruar nga Stefan Kosgrov, shqipëruar nga Valbona Bitri, ilustruar nga Kris Balduin dhe përshtatur e botuar për fëmijë nga Zylyftar Plaku. Libri ka format B5 dhe çmim kopertine 100 lekë."
+  },
+  {
+    "id": 29,
+    "title": "Përse Kërcejne Gushëkuqet",
+    "description": " Why Robins Hop ",
+    "category": "Botime për fëmijë",
+    "coverImage": "Perse.jpg",
+    "price": "100 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Gushkuqi është një lloj zogu. Sipas një legjende, mendohet se të gjithë zogjtë kanë ecur në tokë, në të njëjtën mënyrë, duke lënë gjurmët e tyre. Por autori, në formë përralle, na tregon se si zogjtë ndryshuan, që gjurmët e këmbëve të tyre të ishin të dallueshme nga ato të pulave. Po… si dhe… pse?! Lexoni tregimin dhe mësojeni përrallën e bukur. Duke e lexuar në gjuhët Anglisht dhe Shqip, do të mbeteni të kënaqur. Nëse keni kohë, mund të ngjyrosni figurat që janë vizatime që ilustrojnë tregimin. Ky është një tregim që të mëson se asgjë nuk është e përsosur në këtë botë, por secili është i veçantë dhe mund të bëjë gjëra të mahnitshme. Tregimi është shkruar nga Anet Karuthers, shqipëruar nga Valbona Bitri, ilustruar nga Kris Balduin dhe përshtatur e botuar për fëmijë nga Zylyftar Plaku. Libri ka format B5 dhe çmim kopertine 100 lekë."
+  },
+  {
+    "id": 30,
+    "title": " Testi i Matematikës",
+    "description": " Math Test",
+    "category": "Botime për fëmijë",
+    "coverImage": "Testi.jpg",
+    "price": "100 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Tregimi është botuar në këtë libër në dy gjuhët, Anglisht dhe Shqip, me ilustrime vizatimorë të gatshëm për t'u ngjyrosur sipas dëshirës. Aty përshkruhet dilema që përjetojnë dy nxënës që nuk ndiqnin udhëzimet e mësueses gjatë shpjegimit në klasë. Të dy e pësojnë dhe përsërisin testin e matematikës. E vërteta zbulohet dhe më pas bëhen shokë dhe nxënës të mirë. Për t'u njohur me historinë, duhet të lexoni librin, i cili është i shoqëruar me ilustrime dhe një variant dy gjuhësh, Anglisht-Shqip, që ka vlera edukative, sidomos për fëmijët. Tregimi është shkruar nga Dori Batler, shqipëruar nga Valbona Bitri, ilustruar nga Sharon Holm dhe përshtatur dhe botuar për fëmijë nga Zylyftar Plaku. Libri ka format B5 dhe çmim kopertine 100 lekë."
+  },
+  {
+    "id": 31,
+    "title": " Aventurat e Herrit",
+    "description": " Herri zbërthen kodin si detektivHerri",
+    "category": "Botime për fëmijë",
+    "coverImage": "A1.jpg",
+    "price": "300 lekë",
+    "author": "Suzi Klajn",
+    "fullDescription": "Detektiv Herri beson se është detektivi i dytë më i mirë në botë (i dyti pas Sherlok Holms, sigurisht), por pjesa tjetër e fëmijëve në klasën e dytë nuk janë aq të sigurt. Ai ka vendosur ta provojë veten duke zgjidhur misterin e fundit në Shkollën e Jugut: Një garë në mensë sapo ka filluar dhe Herri do të dijë se si ta fitojë. Ai e di se, zonja Funderbërk, kuzhinierja, po përdor një kod matematik, vargun e numrave të Fibonaçit, që të vendosë për fituesin e çdo dite. A do të mundet që të zbërthejë kodin, Herri, përpara se Meri ta spiunojë, apo ditët e Herrit si detektiv do të përfundojnë pa lavdi? Lexo librin, që të mësosh më shumë…"
+  },
+  {
+    "id": 32,
+    "title": "Aventurat e Herrit ",
+    "description": " Në klasën e dytë",
+    "category": "Botime për fëmijë",
+    "coverImage": "A2.jpg",
+    "price": "300 Lekë",
+    "author": "Suzi Klajn",
+    "fullDescription": "Herri është shoku më i keq dhe shoku më i mirë, që mund të jetë një fëmijë. Klasa e dytë nuk është kurrë e mërzitshme kur është Herri. Atij i pëlqen të bëjë prapsura ose aventura si u thonë disa sjelljeve jo të mira por pa të keq. Në këtë libër tregohet se si Herri do t’i tregojë gjarprin Song Lisë, do të rrëzojë Sidnin në tokë dhe do ta detyrojë që të thotë 'I dua vajzat'. Uauuu! Por kurrë nuk mund ta dish se çdo të bëjë Herri herën tjetër! Duke lexuar këtë libër do të mësoni disa nga aventura të tij…"
+  },
+  {
+    "id": 33,
+    "title": "Aventurat e Herrit",
+    "description": "Letrat pa adresë",
+    "category": "Botime për fëmijë",
+    "coverImage": "A3.jpg",
+    "price": "300 Lekë",
+    "author": "Suzi Klajn",
+    "fullDescription": "Fëmijët në klasën e tretë nuk mund ta besojnë se sa me fat që janë. Zyra postare ka dhuruar një kuti të vërtetë poste. Herri me shokët e tij mezi presin të mësojnë se si shpërndahet posta. Mësuesja Makël i cakton secilit nga një punë. Meri ka në ngarkim çelësin, ndërsa të tjerët si seleksionues, radhitës e shpërndarës. Zuzu do të merret me letrat e adresuara keq, ose letrat e vdekura. Po disa fëmijëve u zhduken treguesit e librit, në mënyrë të mistershme. Herri zbulon se një hajdut po përdor kutinë postare për diçka tjetër përveç dërgimit të zarfeve. A do ta zbulojë dot se çfarë po ndodh, apo do të dalë në përfundime të gabuara? Lexoni librin…"
+  },
+  {
+    "id": 34,
+    "title": " Aventurat e Herrit  ",
+    "description": " Në festën për Hallouin",
+    "category": "Botime për fëmijë",
+    "coverImage": "A4.jpg",
+    "price": "300 Lekë",
+    "author": "Suzi Klajn",
+    "fullDescription": "Çfarë do të jetë Herri për Hallouin?! Herri i dhe të gjithë shokët e tij të klasës e pëlqejnë festën e Hallouinit. Që të gjithë vishen me kostume në shkollë – madje edhe, mësuesja, zonja Makël! Në kopsht Herri ishte veshur si Konti Drakula, në klasën e parë ishte Monstra e Loç Nes, dhe në klasën e dytë ishte një gjarpër. Që të gjithë, në klasën tretë mezi presin të shohin se çfarë do të jetë Herri këtë vit – dhe ata do të habiten vërtet!"
+  },
+  {
+    "id": 35,
+    "title": " Aventurat e Herrit ",
+    "description": "Në klasën e tretë ",
+    "category": "Botime për fëmijë",
+    "coverImage": "A5.jpg",
+    "price": "300 Lekë",
+    "author": "Suzi Klajn",
+    "fullDescription": "Klasa e tretë është më e mira nxënësit e asaj klase sjellin plot të papritura. Vetëm një gjë nuk ka ndryshuar… Herri dhe Sidni vazhdojnë të jenë kundërshtar të betuar. Marrëdhënia e tyre bëhet edhe më e vështirë kur Sidni aksidentalisht vret merimangën e Herrit. Por,… ndërsa janë në një ekskursion, me klasën, në një burg të vjetër dhe të frikshëm i cili ndodhet në një minierë po aq e frikshme, Herri gjen një mënyrë tmerrësisht qesharake që të hakmerret ndaj Sidnit. Po si?! Lexoni librin që të mësoni aventurat e radhës që bënë Herri…"
+  },
+  {
+    "id": 36,
+    "title": " Aventurat e Herrit ",
+    "description": " Sekreti ",
+    "category": "Botime për fëmijë",
+    "coverImage": "A6.jpg",
+    "price": "300 Lekë",
+    "author": "Suzi Klajn",
+    "fullDescription": "Shshtttt!...A doni të dini një sekret kur Song Li sjell, në klasë, bretkosën e saj dhe e ushqen me mëlçi?! Herri dashurohet pas saj. Shoku i tij i ngushtë, Dagu, nuk mund ta besojë. Letra dashurie një vajze?! Shikime të nxehta në anën tjetër të klasës?! Herri nuk gjuan më as me topa bore drejt vajzave. Ai ka bërë aventura të shumta, gjëra të tmerrshme, por kjo është më e tmerrshmja e të gjithëve!… Lexoni librin që të mësoni më shumë për aventurat e tij…"
+  },
+  {
+    "id": 37,
+    "title": " Aventurat e Herrit",
+    "description": "Surpriza e Krishtlindjeve ",
+    "category": "Botime për fëmijë",
+    "coverImage": "A7.jpg",
+    "price": "300 Lekë",
+    "author": "Suzi Klajn",
+    "fullDescription": "Krishtlindjet janë edhe më të bukura kur ke Herrin pranë midis shokësh. Kur zonja Makël pëson një aksident dhe detyrohet të shtrohet në spital, drejtori i shkollës, bëhet mësuesi zëvendësues për klasën ku është Herri! Por Krishtlindjet nuk janë të njëjta si me zonjën Makël, mësuesen që është sëmurë. Herri mendon një surprizë për mësuesen që ndodhet në spital. Por duke e njohur Herrin si aventurier, ju mund të mendoni se do të jetë diçka që askush nuk e ka bërë surpriza të tilla më përpara! Libri me 100 faqe ka çmim balline 300 lekë."
+  },
+  {
+    "id": 37.1,
+    "title": "Macja Gugë",
+    "description": "Macja Gugë ",
+    "category": "Botime për fëmijë",
+    "coverImage": "A8.jpg",
+    "price": "300 Lekë",
+    "author": "Suzi Klajn",
+    "fullDescription": "Ky libër është roman për fëmijë të moshave deri në klasën e gjashtë. Tregon simpatinë që kanë fëmijët për shkrimtarin e tyre të preferuar, por edhe vihen në provë të vështirë në trukun që u bënë shkrimtarja. Ata shkojnë për të marrë autografe por për habinë e tyre “shkrimtari” nuk erdhi. U sajua truku se gjoja ishte një mashkull, shkrimtar, dhe se e rrëmbyen. Po për çfarë arsye mund të rrëmbehet një shkrimtar?!Këtë enigmë e zgjidhin tre hetuesit e vegjël, të cilët vihen në kërkim të së vërtetës. Por… ata bien në kurthin e ngritur nga shkrimtarja. Libri është i përshtatur në gjuhë dhe në skena të tilla, që rrjedhin natyrshëm duke e bërë tepër tërheqës dhe edukativ. Lexuesi ndeshet me mistere dhe të papritura që gjejnë zgjidhje duke shuar dalëngadalë kërshërinë e moshës, por edhe vihet në provë për të menduar në zgjidhjen e situatave. Në fund të librit ka një material pedagogjik për të bashkëbiseduar, prindi apo mësuesi, me fëmijën, pasi e ka lexuar librin."
+  },
+  {
+    "id": 38,
+    "title": " Hetuesit e Vegjël",
+    "description": " Misteri i Hotelit të magjepsur",
+    "category": "Botime për fëmijë",
+    "coverImage": "M1.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Dinku, Joshi dhe Roza bënë një shëtitje në muze. Atje vizituan një varr egjiptian me shumë stoli dhe arë. Por…një mumje në muzeu e vodhën, pikërisht në momentin kur ata ishin aty. Hajdutët me maska nuk i njohu asnjë! Tre hetuesit e vegjël arritën që të zbulonin vjedhësit. Për më shumë lexoni librin…"
+  },
+  {
+    "id": 39,
+    "title": " Hetuesit e Vegjël",
+    "description": " Misteri i mumjes së vjedhur",
+    "category": "Botime për fëmijë",
+    "coverImage": "M2.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Ky libër është roman për fëmijë të moshave deri në klasën e gjashtë. Tregon simpatinë që kanë fëmijët për shkrimtarin e tyre të preferuar, por edhe vihen në provë të vështirë në trukun që u bënë shkrimtarja. Ata shkojnë për të marrë autografe por për habinë e tyre “shkrimtari” nuk erdhi. U sajua truku se gjoja ishte një mashkull, shkrimtar, dhe se e rrëmbyen. Po për çfarë arsye mund të rrëmbehet një shkrimtar?!Këtë enigmë e zgjidhin tre hetuesit e vegjël, të cilët vihen në kërkim të së vërtetës. Por… ata bien në kurthin e ngritur nga shkrimtarja. Libri është i përshtatur në gjuhë dhe në skena të tilla, që rrjedhin natyrshëm duke e bërë tepër tërheqës dhe edukativ. Lexuesi ndeshet me mistere dhe të papritura që gjejnë zgjidhje duke shuar dalëngadalë kërshërinë e moshës, por edhe vihet në provë për të menduar në zgjidhjen e situatave. Në fund të librit ka një material pedagogjik për të bashkëbiseduar, prindi apo mësuesi, me fëmijën, pasi e ka lexuar librin."
+  },
+  {
+    "id": 40,
+    "title": " Hetuesit e Vegjël",
+    "description": " Misteri i fantazmës në kështjellë",
+    "category": "Botime për fëmijë",
+    "coverImage": "M3.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Libri tregon për zbulimin e një kontrabandisti të shpendëve të rralla. Të rriturit mendojnë se në kështjellë ekzistojnë fantazm, atje ku jeton shkrimtarja e librave për fëmijë. Hetuesit e vegjël, nisin punën për zbulimin e enigmës: A ekzistojnë vërtet fantazma?! Po të rriturit pse besojnë se ajo ekziston?! Klithmat e llahtarshme e përforcojnë bindjet e tyre. Autori e ndërthur ngjarjen në një kështjellë buzë detit."
+  },
+  {
+    "id": 41,
+    "title": " Hetuesit e Vegjël",
+    "description": " Misteri i thesarit të mbytur",
+    "category": "Botime për fëmijë",
+    "coverImage": "M4.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Hetuesit e vegjël janë me pushime tek gjyshja në Florida. Njerëzit atje flasin për një thesar floriri në fund të detit. Sipas tyre, thesari ka mbetur aty pas mbytjes së një anije piratësh. Të tre shokët nuk u besojnë fjalëve por nisin punën për të vërtetuar ekzistencën e atij thesari. Dhe ja dalin mbanë. Po si arritën Dinku, Roza dhe Joshi që të zbulojnë thesarin?! Për më shumë lexoni librin…"
+  },
+  {
+    "id": 42,
+    "title": " Hetuesit e Vegjël",
+    "description": " Misteri i smeraldit të xhaguarit",
+    "category": "Botime për fëmijë",
+    "coverImage": "M5.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Tre fëmijët shkojnë me pushime tek xhaxhai i Dinkut. Një gurë smeraldi i kushtueshëm rezulton që të jetë fals. Po kush e vodhi origjinalin?! Fëmijët dyshojnë për xhaxhain e Dinkut. Po ashtu edhe autoritetet. Hetuesit e vegjël e zbulojnë të vërtetën."
+  },
+  {
+    "id": 43,
+    "title": " Hetuesit e Vegjël",
+    "description": " Misteri i thesarit në ishull",
+    "category": "Botime për fëmijë",
+    "coverImage": "M6.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Një thesar në ishull zbulohet nga tre fëmijët. Po kush mund ta ruante atë dhe pse?! Fëmijët dyshojnë edhe për më të afërmit e tyre, por më në fund e zbulojnë të vërtetën. Ata kalojnë shumë vështirësi dhe kërcënime nga falsifikatorët."
+  },
+  {
+    "id": 44,
+    "title": " Hetuesit e Vegjël",
+    "description": " Misteri i shkrimtarit të rrëmbyer",
+    "category": "Botime për fëmijë",
+    "coverImage": "M7.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Shkrimtaren e famshme për fëmijë e rrëmbejnë, para se të mbrinte në një takim me lexuesit e saj. Të jetë rastësi apo e kanë rrëmbyer sepse ishte e pasur? Mos vallë është një lojë?! Hetuesit e vegjël zbulojnë gjithçka."
+  },
+  {
+    "id": 45,
+    "title": " Hetuesit e Vegjël",
+    "description": " Misteri pullës së vjedhur",
+    "category": "Botime për fëmijë",
+    "coverImage": "M8.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Dinkut i vijnë disa letra rresht. Dikush i dërgonte apo kishte ngatërruar adresën. Zarfet e letrave ishin me kode dhe aty fshihej një pullë postare shumë e vjetër dhe me vlera të mëdha. Hetuesit e vegjël kalojnë shumë telashe dhe kërcënime deri sa më në fund e zbulojnë mashtruesin."
+  },
+  {
+    "id": 46,
+    "title": " Hetuesit e Vegjël",
+    "description": " Misteri i gurit të çmuar",
+    "category": "Botime për fëmijë",
+    "coverImage": "M9.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Joshi, Dinku dhe Roza shkojnë me pushime në një fermë. Gjat kërkimeve në lumë, Joshi gjeti një gurë të madh floriri shumë të kushtueshëm. E la në kasafortë por një ditë atë gurë e vodhën. Kush e vodhi dhe si?! Tre hetuesit e zbulojnë enigmën."
+  },
+  {
+    "id": 47,
+    "title": " Hetuesit e Vegjël",
+    "description": " Misteri i kalit të zi",
+    "category": "Botime për fëmijë",
+    "coverImage": "M10.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Tre hetuesit e vegjël janë të ftuar në garat e hipizmit. Por diçka ka ndodhur me kalin që gjithmonë ka fituar garat. Atë kalë e kanë vjedhur me qëllim që garën ta fitonte dikush tjetër. Një mision i ri për hetuesit e vegjël të cilët si gjithmonë e arrijnë qëllimin."
+  },
+  {
+    "id": 48,
+    "title": " Hetuesit e Vegjël",
+    "description": "Misteri në rërën thithëse",
+    "category": "Botime për fëmijë",
+    "coverImage": "M11.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Banorët planifikojnë të ndërtojnë një urë për të ndihmuar rosat të kalojnë në mënyrë të sigurt, duke shmangur makinat. Për të mbledhur fonde, vendosen arka të posaçme për kontribute, por njëra prej tyre zhduket pasi mbushet me para. Tre hetuesit e vegjël nisin hetimin për të zbuluar vjedhësin. Situata ndërlikohet kur Dinku ngec në rërën thithëse dhe përballet me rrezikun e vdekjes, por me ndihmën e shokëve, gjithçka merr një kthesë dramatike. Për më shumë, lexoni aventurat e plota të hetuesve të vegjël."
+  },
+  {
+    "id": 49,
+    "title": " Hetuesit e Vegjël",
+    "description": " Misteri i dinozaurit në qytet",
+    "category": "Botime për fëmijë",
+    "coverImage": "M12.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Banorët e qytetit organizojnë një fushatë për të mbledhur fonde për një muze parahistorik, dhe ato para përdoren për të sjellë një Dinozaur të ndërtuar që duket si i vërtetë. Por Dinozauri nuk është thjesht një atraksion – ai flet dhe tregon diçka misterioze. Dinku, Joshi dhe Roza dyshojnë se ky Dinozaur i madh fsheh një sekret të madh. Po cili është ai sekret dhe çfarë lidhet me fondet e muzeut? Tre hetuesit e vegjël ndërmarrin një mision për të zbuluar të vërtetën. Lexoni librin për të ndjekur aventurën e tyre intriguese."
+  },
+  {
+    "id": 50,
+    "title": " Hetuesit e Vegjël",
+    "description": " Misteri i vjedhjes së skeletit",
+    "category": "Botime për fëmijë",
+    "coverImage": "M13.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Një skelet zhduket nga infermieria e shkollës, duke shkaktuar një rrëmujë të madhe. Dikush përpiqet të devijojë hetimin e Dinkut, Joshit dhe Rozës, duke u dhënë informacione të rreme. Situata komplikohet më tej nga falsifikimet dhe gënjeshtrat. Por hetuesit e vegjël nuk dorëzohen dhe përdorin zgjuarsinë e tyre për të zbuluar të vërtetën. Për më tepër, ata zënë në befasi edhe drejtorin e shkollës, i cili kishte sajuar një gënjeshtër për ditën e gënjeshtrave. Si arrijnë ata të zbardhin misterin dhe çfarë zbulimi i pret në fund? Lexoni librin për të mësuar gjithçka!"
+  },
+  {
+    "id": 51,
+    "title": " Hetuesit e Vegjël",
+    "description": " Misteri i piktures së vjedhur ",
+    "category": "Botime për fëmijë",
+    "coverImage": "M14.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Një pikturë antike dhe shumë e çmuar zhduket nga shtëpia e xhaxhait të Dinkut, duke i lënë të gjithë të habitur. Në vendngjarje, hajduti ka lënë pas vetëm disa lëkura portokalli në kuzhinë. Por, a mjafton ky detaj i pazakontë për të zbuluar hajdutin? Hetuesit e vegjël—Dinku, Joshi dhe Roza—nuk ndalen para vështirësive. Ata ndjekin gjurmët më të vogla dhe përdorin zgjuarsinë e tyre për të zgjidhur misterin. A do ta gjejnë dot pikturën dhe kush qëndron pas kësaj vjedhjeje intriguese? Zbuloni gjithçka duke lexuar këtë histori plot aventura dhe të papritura!"
+  },
+  {
+    "id": 52,
+    "title": " Hetuesit e Vegjël",
+    "description": " Misteri i bankës së vjedhur",
+    "category": "Botime për fëmijë",
+    "coverImage": "M15.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Kur Dinku, Joshi dhe Roza shkojnë me pushime në një ishull të qetë, nuk e imagjinojnë se do të përballen me një tjetër mister. Një bankë grabitet në mënyrë të sofistikuar, duke lënë të gjithë banorët e ishullit në shok. Tre hetuesit e vegjël nisin menjëherë hetimet, duke analizuar çdo detaj të çuditshëm rreth ngjarjes. Vëmendjen e tyre e tërheq një varkë e verdhë e ankoruar në port, që duket se fsheh diçka më shumë sesa duket në pamje të parë. A do të arrijnë ata të zbulojnë autorët e grabitjes dhe të zbërthejnë sekretet që mbajnë banorët e ishullit? Përgjigjet do t’i gjeni në këtë histori të mbushur me aventura dhe zgjidhje enigmesh!"
+  },
+  {
+    "id": 53,
+    "title": " Hetuesit e Vegjël",
+    "description": " Misteri i Ujkut të Bardhë",
+    "category": "Botime për fëmijë",
+    "coverImage": "M16.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Në një park natyror, ku tre këlyshët e ujkonjës janë atraksioni kryesor, ndodh një zhdukje misterioze. Këlyshët, që janë të dashur si për ujkonjën ashtu edhe për kujdestarët, zhduken nga foleja e tyre pa lënë gjurmë. Dinku, Joshi dhe Roza, ndonëse janë me pushime, nuk mund të qëndrojnë duarkryq. Të pajisur me kurajë dhe zgjuarsi, ata fillojnë hetimet për të zbuluar të vërtetën. Kush mund t’i ketë rrëmbyer këlyshët dhe përse? Një aventurë emocionuese plot sfida dhe sekrete të natyrës pret lexuesit që të zbulojnë përgjigjet!"
+  },
+  {
+    "id": 54,
+    "title": " Hetuesit e Vegjël",
+    "description": "Misteri i shtrigës në varreza",
+    "category": "Botime për fëmijë",
+    "coverImage": "M17.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Tre investigatorët e vegjël, Dinku, Joshi dhe Roza, nisen për pushime në një qytezë të vogël, ku atmosfera duket e qetë, por banorët janë të shqetësuar dhe të frikësuar. Çdo natë, një hije misterioze shfaqet në varrezat e qytetit, duke përhapur panik dhe duke ngjallur thashetheme për një shtrigë që ka rikthyer magjinë e saj. Pavarësisht misterit dhe rrezikut, fëmijët marrin guximin të ndjekin hijen, të analizojnë të dhënat dhe të zbulojnë një të vërtetë që askush nuk e kishte imagjinuar. Lexoni librin për të zbuluar si arritën ata të largonin frikën nga qyteza dhe të zbulonin burimin e hijes misterioze!"
+  },
+  {
+    "id": 55,
+    "title": " Hetuesit e Vegjël",
+    "description": " Misteri për vampirin në qytet ",
+    "category": "Botime për fëmijë",
+    "coverImage": "M18.jpg",
+    "price": "300 Lekë",
+    "author": "Ron Roy",
+    "fullDescription": "Në qytet shfaqet një zotëri me pamje të pazakontë: flokë të zinj, syze dhe një pelerinë të zezë që i japin një pamje misterioze. Dhëmbët e tij të dalë dhe sjellja e çuditshme nxisin thashetheme mes banorëve, të cilët dyshojnë se ai mund të jetë një vampir. Dinku, Joshi dhe Roza vendosin të hetojnë dhe e ndjekin nga afër këtë burrë enigmatik. Gjatë aventurës së tyre, ata zbulojnë detaje të habitshme që i çojnë drejt një të vërtete që as ata vetë nuk e kishin parashikuar. A është ai vërtet një vampir? Lexoni librin për të zbuluar misterin dhe për të ndjekur hetimin emocionues të tre investigatorëve të vegjël!"
+  },
+
+
+
+  {
+    "id": 56,
+    "title": " 14 Vjec dhëndër në New York",
+    "description": " Roman humoristik me temë amerikano-shqiptare ",
+    "category": "Botime për të rritur",
+    "coverImage": "u1.jpg",
+    "price": "500 Lekë",
+    "author": "Skifter Kellci | Zyliftar Plaku",
+    "fullDescription": "Ky roman nga autorët Skifter Këlliçi dhe Zylyftar Plaku mbështetet në motivet e komedive klasike “Katërmbëdhjetë vjeç dhëndër” dhe “Pas Vdekjes” të Anton Zako Çajupit, por me ngjarje të vendosura pas viteve 1990 dhe që zhvillohen në SHBA. Historia ndjek një familje nga Zagoria, që pas tre vitesh në Amerikë, përballet me sfidat e emigrimit. Kryefamiljari Vangjeli pushohet nga puna për shkak të dembelizmit të fituar gjatë viteve në kooperativë. Ai prish kursimet në kazino dhe për të përballuar situatën, vendos të martojë djalin e tij Gjinin me Lenën, vajzën e një bashkëfshatari. Lena, një vajzë e shkolluar për financë dhe më e madhe në moshë se Gjini, shihet si zgjidhja për të siguruar një të ardhur të qëndrueshme për familjen. Ndërkohë, Grigori, babai i Lenës, për shkak të borxhit që i kishte Vangjelit, e ka të vështirë të kundërshtojë këtë kërkesë. Mentalitetet tradicionale shqiptare përplasen me ato të brezit të ri në një sfond të mbushur me tensione kulturore dhe emocionale. Romani përmban 166 faqe dhe kushton 500 lekë."
+  },
+  {
+    "id": 57,
+    "title": " 550 Receta të mjekësisë së Elbasanit ",
+    "description": " Është libër i mjekësisë alternative ... ",
+    "category": "Botime për të rritur",
+    "coverImage": "u2.jpg",
+    "price": "400 Lekë",
+    "author": "Nexhmedin Misiri | Hysen Vogli",
+    "fullDescription": "Në qytet shfaqet një zotëri me pamje të pazakontë: flokë të zinj, syze dhe një pelerinë të zezë që i japin një pamje misterioze. Dhëmbët e tij të dalë dhe sjellja e çuditshme nxisin thashetheme mes banorëve, të cilët dyshojnë se ai mund të jetë një vampir. Dinku, Joshi dhe Roza vendosin të hetojnë dhe e ndjekin nga afër këtë burrë enigmatik. Gjatë aventurës së tyre, ata zbulojnë detaje të habitshme që i çojnë drejt një të vërtete që as ata vetë nuk e kishin parashikuar. A është ai vërtet një vampir? Lexoni librin për të zbuluar misterin dhe për të ndjekur hetimin emocionues të tre investigatorëve të vegjël!"
+  }, 
+   {
+    "id": 58,
+    "title": "Dashuri e Humbur",
+    "description": "Ditar Nga Shqipëria",
+    "category": "Botime për të rritur",
+    "coverImage": "u3.jpg",
+    "price": "500 Lekë",
+    "author": "Alberto Sarti",
+    "fullDescription": "Ky roman përshkruan ngjarje të marra nga jeta në një komunitet të një qyteti të vogël në qendër të Shqipërisë, gjatë viteve 1990. Historia ndjek një të huaj italian, i cili bie në dashuri me një vajzë shqiptare. Dashuria e tyre përballet me sfidat e mentaliteteve të kohës, ku vajza lufton për emancipimin e saj, edhe pse ndikohet nga rrethanat sociale dhe kulturore. Në roman përplasen dy kohë: e kaluara komuniste dhe e ardhmja e paqartë që pritet të vijë. Lufta e brezave, përplasjet mes qytetërimeve, dhe përleshjet kulturore e fetare pasqyrojnë transformimet e shoqërisë shqiptare në një periudhë të vështirë varfërie dhe pasigurie. Libri ka 200 faqe, kushton 500 lekë dhe është një udhëtim emocionues në jetën dhe sfidat e një Shqipërie në ndryshim."
+  }, 
+   {
+    "id": 59,
+    "title": " Dallendyshet pa fole",
+    "description": " Roman ",
+    "category": "Botime për të rritur",
+    "coverImage": "u4.jpg",
+    "price": "500 Lekë",
+    "author": "Rezart Palluqi",
+    "fullDescription": "Romani 'Dallëndyshet pa fole' i autorit Rezart Palluqi trajton dramën e dy personazheve kryesorë, ish-emigrantë që kthehen në Shqipëri për të investuar kursimet e tyre. Dy shokët, plot ëndrra dhe dëshira, ndjekin rrugë të ndryshme: njëri hap një dyqan për shitjen e luleve, ndërsa tjetri një dyqan funerali. Antiteza vazhdon edhe me karakteret dhe gratë me të cilat janë martuar. Përmes tyre, romani pasqyron emigracionin, përpjekjet për të bërë biznes në një mjedis të vështirë, jetën e dy familjeve dhe fatin e shumë shqiptarëve të tjerë në emigracion. Me detaje të pasura dhe mjeshtëri letrare, Rezart Palluqi sjell një pasqyrë të ndjerë dhe reale të jetës së emigrantëve dhe sfidave të tyre. Libri ka 220 faqe dhe kushton 500 lekë."
+    }, 
+     {
+    "id": 60,
+    "title": " Dallgë Dashurie",
+    "description": " Poezi ",
+    "category": "Botime për të rritur",
+    "coverImage": "u5.jpg",
+    "price": "500 Lekë",
+    "author": "Lediana Kapaj",
+    "fullDescription": "‘Dallgë dashurie’ është një libër poetik nga autorja Lediana Kapaj, e cila banon në Francë. Botuar nga Shtëpia Botuese Jonalda, të ardhurat nga shitja e tij janë dhuruar për fëmijët jetim. Poezitë e këtij libri pasqyrojnë ndjeshmërinë dhe thellësinë e shpirtit të autores. Me një përdorim të kujdesshëm të fjalës, pa e përdorur kot për rimë, por të latuar dhe me një vend të gjetur, autorja krijon poezi që janë sa të ndjera aq edhe njerëzore. Figuracioni poetik, tematika e larmishme dhe frymëzimi i saj dëshmojnë aftësinë e autores për të komunikuar me lexuesin. ‘Dallgë dashurie’ është një vepër që mishëron artin poetik në një formë të pastër dhe të vërtetë."
+    },  
+    {
+    "id": 61,
+    "title": "Dhimbje dhe mall",
+    "description": " Poezi ",
+    "category": "Botime për të rritur",
+    "coverImage": "u6.jpg",
+    "price": "500 Lekë",
+    "author": "Naxhire Telo",
+    "fullDescription": "‘Dhimbje dhe mall’ është një libër me poezi nga autorja Naxhire Telo, që vjen për herë të dytë para lexuesit pas librit të saj të parë, ‘Në shtëpinë e zogjve’. Libri përmban 67 poezi që pasqyrojnë shpirtin poetik të autores, si dhe mallin dhe dhimbjen për emigracionin dhe gjendjen ekonomike e shpirtërore të prindërve të atyre që kanë emigruar. Përmes vargjeve të saj, autorja trajton gjithashtu sfidat e familjeve dhe grave të atyre që kanë shkuar jashtë për të punuar. Në 120 faqet e tij, lexuesi do të gjejë një tematikë të larmishme që përfshin jetën në fshat dhe qytet, si dhe përvojat me fëmijët e shkollës, ku autorja ka shërbyer si mësuese. ‘Dhimbje dhe mall’ është një përmbledhje poezish që reflekton ndjenjat dhe realitetet e kohës."
+    },
+      {
+    "id": 62,
+    "title": " E Buta Ëmbëlsi Shpirtërore",
+    "description": " Poezi ",
+    "category": "Botime për të rritur",
+    "coverImage": "u7.jpg",
+    "price": "500 Lekë",
+    "author": "Tahir Hysen Tanushi",
+    "fullDescription": "‘E buta ëmbëlsi shpirtërore’ është një libër me poezi nga autori elbasanas Tahir Tanushi. Me poezitë e tij, autori kërkon dhe gjen gjëra të reja dhe të bukura, duke e theksuar rëndësinë e tyre. Hapësira poetike e tij zgjerohet, dhe dashuria lulëzon në çdo poezi. Tahiri nuk ndalet në vajtimin dhe përpjekjet titanike për të gjetur lumturinë, siç ndodh në shumë poezi të atyre që janë larguar nga atdheu, as nuk përdor fjalë të hidhura. Ai ruan gjithmonë butësinë e shpirtit të tij. Poezia e tij ka një jehonë që shtrihet nga ujrat e Shkumbinit dhe Byshekut të dashur në Elbasan, deri në Udinen e largët, duke sjellë një melodinë dashamirëse dhe të ëmbël që kalon kufijtë. Ky libër, me 110 poezi në 200 faqe, është një mik i dashur për çdo lexues dhe ka çmim 500 lekë."
+    },  {
+    "id": 63,
+    "title": "Etja",
+    "description": " Poezi ",
+    "category": "Botime për të rritur",
+    "coverImage": "u8.jpg",
+    "price": "500 Lekë",
+    "author": "Shefit Doksani",
+    "fullDescription": "‘Etja’ është një përmbledhje poezie nga autori Shefit Doksani, që trajton etjen e njeriut për dije, punë, pasuri dhe shumëçka tjetër. Poezitë e autorit pasqyrojnë dëshirën dhe kërkesën e vazhdueshme të njeriut për arritje dhe përmirësim, duke reflektuar realitetin e jetës së përditshme. Një tematikë aktuale dhe jetësore është ajo e etjes për ujë të pijshëm, një problem që ende nuk është zgjidhur për shumë bashkatdhetarë të autorit, pas gati 30 vjetësh kërkesash dhe fushatash të mbushura me premtime. Ky libër hedh dritë mbi kurthet e ngritura për shqiptarët, dëshirat e mëdha për një jetë më të mirë dhe ndikimin e keqqeverisjes dhe papjekurisë në procesin e shtetformimit të vendit. Poezitë e tij janë një reflektim i asaj që ndodh ngado, një pasqyrë e realitetit që nuk mund të anashkalohet."
+    },  
+    {
+    "id": 64,
+    "title": " Fabulat e Ezopit",
+    "description": " Fabula ",
+    "category": "Botime shkollore",
+    "coverImage": "u9.jpg",
+    "price": "300 Lekë",
+    "author": "#",
+    "fullDescription": "‘Fabulat e Ezopit Anglisht-Shqip’ është një libër që sjell fabulën e Ezopit në dy gjuhë, shqip dhe anglisht, me një ballinë për secilën gjuhë. Kjo strukturë mund të bëjë krahasimin mes dy gjuhëve më pak të lehtë, por ajo është e dobishme për të mësuar dhe kontrolluar saktësinë e përkthimit. Mënyra e paraqitjes dhe korrektësia e të dy gjuhëve e bën këtë libër një mjet të vlefshëm për ata që duan të mësojnë anglisht ose shqip. Po ashtu, ky libër është i rekomanduar për nxënësit që mësojnë gjuhën angleze. Libri ka 100 faqe dhe ka çmim kopertine 300 lekë."
+  }, 
+   {
+    "id": 65,
+    "title": " Fytyra e Dytë e Lord Bajronit",
+    "description": " Roman",
+    "category": "Botime për të rritur",
+    "coverImage": "u10.jpg",
+    "price": "1000 Lekë",
+    "author": "Harriet Beecher Stowe",
+    "fullDescription": "‘Fytyra e dytë e Lord Bajronit’ është një libër i shkruar nga Harriet Beecher Stowe, i cili pasqyron një pamje tjetër të jetës dhe personalitetit të Lord Bajronit. Pasi botoi librin ‘Historia e vërtetë e jetës së Lord Bajron-it’, i cili shkaktoi shumë diskutime, autorja ka trajtuar anën më të errët të Bajronit, duke zbuluar kontradiktat dhe veset e tij në shoqëri, marrëdhëniet intime dhe tradhëtitë, falsifikimet dhe intimitetet seksuale, si dhe debatet me gruan e tij. Ky botim ofron një pamje të re për Bajronin, larg imazhit të krijuar për të nga shumë libra të tjerë që flasin për dashurinë dhe mikpritjen ndaj shqiptarëve. Libri është shqipëruar nga Kujtim Agalliu dhe ka çmim kopertine 1000 lekë."
+  },  
+  {
+    "id": 66,
+    "title": " Fjalë Të Arta",
+    "description": " Fjale te arta ",
+    "category": "Botime për të rritur",
+    "coverImage": "u11.jpg",
+    "price": "500 Lekë",
+    "author": "Neshat Kapinova",
+    "fullDescription": "‘Fjalë të arta’ nga Neshat Kapinova është një libër që ofron këndvështrime të thella dhe filozofike mbi jetën dhe vlerat e saj. Autorin i shpalos fjalët e urta dhe të mençura si thënie emblematike që lindin nga përvoja e jetës, sidomos nga momentet e vështira, dhe i trajton ato si një operim të thellë që krijon mendime, gjykime dhe mesazhe. Fjalët e urta shihen si një mjet i domosdoshëm për të jetuar me seriozitet dhe dinjitet, dhe ky libër i paraqet si yje që ndriçojnë rrugën e jetës së çdo individi. Libri është një reflektim mbi mundësitë e jetës, ndihmën që fjalët e urta ofrojnë për të kuptuar dhe për t’u përballur me sfidat. Libri ka 204 faqe dhe ka çmim kopertine 500 lekë."
+    }, 
+     {
+    "id": 67,
+    "title": "Gjethet e Rëna",
+    "description": "Kujtime",
+    "category": "Botime për të rritur",
+    "coverImage": "u12.jpg",
+    "price": "300 Lekë",
+    "author": "Rexhep Shuli",
+    "fullDescription": "‘Gjethet e Rëna’ i Rexhep Shulit sjell kujtimet e autorit nga fëmijëria deri në vitin 1918, kur jeton në Amerikë. I lindur dhe rritur në fshatin Velçan të Pogradecit, ai tregon për vuajtjet ekonomike të fëmijërisë së tij dhe për lumturinë natyrale që e shoqëronte atë. Nëpërmjet këtij libri, autori ndan momente intime dhe marrëdhënie vllazërore e shoqërore në familje, fise dhe fshatra. Me sinqeritet dhe dëshirë që kujtimet e tij të ruajnë pasardhësit, ai ka përfshirë në libër edhe disa foto nga fëmijëria dhe Amerika, vendi ku jeton dhe punon tani. Libri është një pasqyrë e jetës së thjeshtë dhe të ndershme të autorit, i cili i shpreh ato me dashuri për të kaluarën dhe përkushtim për të ardhmen."
+    }, 
+    {
+    "id": 68,
+    "title": " Hëna e Vjeshtës ",
+    "description": " The Autumn Moon ",
+    "category": "Botime për të rritur",
+    "coverImage": "u13.jpg",
+    "price": "400 Lekë",
+    "author": "Kujtim Agalliu",
+    "fullDescription": "‘Hëna e vjeshtës’ i autorit Kujtim Agalliu është një libër me Haiku, një lloj poezie që përmbledh në mënyrë të shkurtër dhe të thellë tematika të ndryshme. Pas disa përkthimeve dhe botimeve si autor, Agalliu sjell një koleksion të këtyre poezive me mjeshtërinë e vargut të vështirë Haiku. Ky libër është i botuar në dy gjuhë, Anglisht dhe Shqip, duke ruajtur bukurinë dhe thellësinë e krijimtarisë së autorit. Përkthimi është realizuar me shumë kujdes dhe përpikmëri për të ruajtur frymën e poezisë. Libri është i lexueshëm dhe ka vlera të mëdha kulturore, duke sjellë një përvojë unike për ata që e lexojnë. Libri ka 80 faqe dhe ka çmimin 400 lekë."
+    }, 
+     {
+    "id": 69,
+    "title": " Himn Dashurisë",
+    "description": " Poezi ",
+    "category": "Botime për të rritur",
+    "coverImage": "u14.jpg",
+    "price": "300 Lekë",
+    "author": "Vasilika Dhembi",
+    "fullDescription": "‘Himn Dashurisë’ i autorës Vasilika Dhëmbi është një libër poezie që shpreh pasionin dhe fuqinë e dashurisë. Autorja sjell poezitë e saj me një formë letrare të zhvilluar dhe me një tematikë të thellë që e ka dashurinë në qendër të saj. Gati të gjitha poezitë flasin për dashurinë, duke e bërë librin të veçantë për nga tema dhe niveli i krijimtarisë. Përveç poezive, autori vjen me një poemth të veçantë për dashurinë, i cili i jep librit një vlerë të shtuar. Libri ka 120 faqe dhe çmimi i tij është 300 lekë."
+    }, 
+    {
+    "id": 70,
+    "title": "Kuvendo me Hënën",
+    "description": "Roman ",
+    "category": "Botime për të rritur",
+    "coverImage": "u15.jpg",
+    "price": "500 Lekë",
+    "author": "Luftar Spahiu",
+    "fullDescription": "‘Kuvendo me Hënën’ është një roman i autorit Luftar Spahiu, ku ai sjell një pjesë të jetës së tij, duke e shprehur përmes postulatit: ‘Dashuria mban çdo gjë; beson çdo gjë; shpreson çdo gjë dhe i qëndron çdo gjëje.’ Ky roman ka ngjarje të jetuara, por personazhet dhe situatat janë krijuar artistikisht për të fshehur ngjarjen dhe për të arritur efektet e duhura. Autori sqaron në faqen e parë se përshkrimet dhe karakteret nuk përkasin personave realë. Libri ka 202 faqe dhe çmimi i tij është 500 lekë."
+    }, 
+     {
+    "id": 71,
+    "title": " Klubi Khajam",
+    "description": " Roman ",
+    "category": "Botime për të rritur",
+    "coverImage": "u16.jpg",
+    "price": "700 Lekë",
+    "author": "Murat Aliaj",
+    "fullDescription": "‘Klubi Khajam’ është një roman i autorit Murat Aliaj, një arritje e rëndësishme në krijimtarinë e tij letrare. Në qendër të romanit janë ngjarje të ditëve tona, të cilat shoqëria shqiptare i ka përjetuar dhe po i përjeton akoma. Ndërrimi i sistemit politik solli ndryshime të mëdha jetësore dhe tronditi psikologjinë e njerëzve dhe të familjeve shqiptare. Me hapjen e shoqërisë, edhe familja shqiptare u trondit, dhe këshillat e prindërve shpesh nuk u morën parasysh nga fëmijët, të cilët kërkonin një jetë më të mirë dhe më të pasur. Kontradikta e brezave, e cila ka ekzistuar gjithmonë, sot manifestohet hapur, duke çuar shpeshherë në drama të thella familjare. Jeta dhe dramat e personazheve zhvillohen gjatë gjithë romanit, i cili është shkruar me kulturë, frymëzim, fantazi dhe realitet. Intensiteti i ngjarjeve, galeria e pasur e personazheve dhe peizazhet e papërsëritshme e bëjnë këtë roman tërheqës dhe interesant. Libri ka 244 faqe dhe çmimi i tij është 700 lekë."
+  },  
+  {
+    "id": 72,
+    "title": " Kur të Qethen Vicat",
+    "description": " Fabula ",
+    "category": "Botime për të rritur",
+    "coverImage": "u17.jpg",
+    "price": "500 Lekë",
+    "author": "Shefit Doksani",
+    "fullDescription": "‘Kur të qethen Viçat’ është një roman i autorit Shefit Doksani, një mjeshtër i fabulës dhe një autor i njohur për krijimin dhe botimin e veprave në Itali. Edhe pse më pak i njohur në Shqipëri krahasuar me Ferit Lamaj, Doksani është i njohur për mjeshtërinë e tij në këtë gjini. Libri përmban një tematikë të gjerë dhe të larmishme të jetës së përditshme, me një stil lakonik dhe të drejtpërdrejtë. Autori trajton problemet e jetës pa moralizime, duke i lënë ato në duar të lexuesit për interpretim. Ky roman ka 98 faqe dhe çmimi i tij është 500 lekë."
+    }, 
+    {
+    "id": 73,
+    "title": " Lejlaja me turban",
+    "description": " Tregime ",
+    "category": "Botime për të rritur",
+    "coverImage": "u18.jpg",
+    "price": "500 Lekë",
+    "author": "Kujtim Agalliu",
+    "fullDescription": "‘Lejlaja me turban’ është një libër me tregime i autorit elbasanas, Kujtim Agalliu. Autori, pas disa romaneve dhe përkthimeve, sjell këtë libër ku lënda është marrë kryesisht nga kujtimet e tij, sidomos si emigrant në Turqi. Tema e personalitetit të femrës është e pranishme nëpërmjet tregimeve, ku një emigrante shqiptare në Stamboll pranon të vishet me turban për t'u fejuar me djalin e pronarit, por më pas largohet për tek i dashuri i saj në Shqipëri. Intriga dhe realiteti e bëjnë këtë libër mjaft tërheqës. Libri ka 130 faqe dhe përmban 25 tregime. Çmimi i kopertinës është 500 lekë."
+    }, 
+    {
+    "id": 74,
+    "title": "Love Letters",
+    "description": " Poems ",
+    "category": "Botime për të rritur",
+    "coverImage": "u19.jpg",
+    "price": "500 Lekë",
+    "author": "Artur Vrekaj",
+    "fullDescription": "In this collection of poems, Artur explores themes of love, nature, and personal transformation inspired by his experiences in the New World. His verses reflect a deep connection to the people he loves, the beauty of the natural world, and the profound sense of belonging he has discovered in America. Written with passion and sincerity, these poems serve as an invitation to connect on a deeper level with the essence of life and nature. Artur’s love for both the people and the environment around him is woven through each poem, offering a unique and heartfelt perspective on the simple joys of creation and connection."
+    },
+      {
+    "id": 75,
+    "title": "Lojë Dashurie",
+    "description": " Roman ",
+    "category": "Botime për të rritur",
+    "coverImage": "u20.jpg",
+    "price": "300 Lekë",
+    "author": "Kujtim Agalliu",
+    "fullDescription": "Perskrim i Librit "
+  },  {
+    "id": 77,
+    "title": "Një Histori Ndryshe SPATHARA",
+    "description": " Bakiajt dhe Trungu i gegëve ",
+    "category": "Botime për të rritur",
+    "coverImage": "u21.jpg",
+    "price": "500 Lekë",
+    "author": "Bari Bakiu",
+    "fullDescription": "Bari Bakiu sjell kujtime, përshkrime dhe histori për fshatin Spatharë të Skraparit. Një fshat që tashmë zorë se banohet por që gjurmët e tij dhe të fiseve që kanë jetuar atje kanë histori, traditë, rrjedhë shumë të hershme. Fiset e ardhur nga veriu i Shqipërisë u vendosën në atë tokë dhe vijuan jetën e tyre në breza duke komunikuar dhe krijuar miqësi me banorët e tjerë përreth e që më pas pothuajse e humbën kujtesën nga vijnë. Autori bazuar në dokumente dhe tregime sjellë historinë e traditat e Spatharës për të mos u harruar kurrë as nga banorët e ish banorët por edhe nga brezat e atyre që kanë lindur e janë pasardhës nga Spathara e Skraparrit."
+  },
+  {
+    "id": 78,
+    "title": " Portrete Ushtarakësh të Mbrojtjes Kunderajrore",
+    "description": " Roman ",
+    "category": "Botime për të rritur",
+    "coverImage": "u22.jpg",
+    "price": "500 Lekë",
+    "author": "Avni Skenderaj",
+    "fullDescription": "Si pasojë e reformave demilitarizuese, sistemi i MKA-së doli jashtë funksionit. Mijëra ushtarakë dolën në rezervë, repartet kundërajrore u shkrin si kripa në ujë, sasia e armatimit dhe teknikës luftarake arriti në shifrën zero. Libri është vlerësim ushtarakësh për të gjithë ata që në vite Mbrojtjen Kundërajrore të Shqipërisë e njësuan me jetën e tyre dhe duke shërbyer në këtë armë të veçantë e të vështirë, bënë historinë e saj. Autori me anë të këtij libri u jap kuptim viteve të jetës së tij si drejtues në këtë armë. Libri me autor Avni Skënderaj përmban element biografik, fotografi, fakte historik, statistikë, kujtime, meditime, rrëfime letrare dhe si i tillë nxit kureshtjen nga fillimi në fund. Shtrirja kohore e gjeografike e kontributeve, përzgjedhja me kujdes e tyre, bëjnë që përfaqesimi të jetë i gjerë, me ushtarakë të artilerisë kundërajrore, raketave, radarëve si dhe me portrete të disa pedagogëve të shkollave ushtarake, të dëshmorëve, të disa shkrimtarëve, gazetarëve e publicistëve që kanë shërbyer në Mbrojtjen Kundërajrore. Libri lexohet me kureshtje, atë e bëjnë mjaft tërheqës faktet, statistikat, meditimet, përshkrimet letrare dhe gjuha e thjeshtë që autori e përdor me sukses pa rënë në monotoni e përsëritje të panevojshme. Përkundrazi, çdo portret ka të veçantat e tij dhe kjo gjë nxit kureshtjen tek lexuesi."
+  },
+  {
+    "id": 79,
+    "title": "Mes Njerëzve",
+    "description": " Policistike ",
+    "category": "Botime për të rritur",
+    "coverImage": "u23.jpg",
+    "price": "700 Lekë",
+    "author": "Abdulla Bracaj",
+    "fullDescription": "Një libër me publicistikë nga ish gazetari me përvojë Avdulla Braçaj. Jo vetëm përvoja në fushën e gazetarisë por njohja e jetës, eksperienca jetësore personale që nga fëmijëria deri në moshën kur u nda nga jeta e bënë librin interesant me shkrimet që ka si botim. Shoku dhe miku i tij i ngushtë Bashkim Koçi e ka përgatitur për botim. Në botim i tillë që mbart përvojat dhe jetën e njerëzve të shumë fushave të veprimtarisë shoqërore e bën librin që të lexohet me kënaqësi."
+  },
+  {
+    "id": 80,
+    "title": " Profecite e Zotit të Tomorit",
+    "description": " Profecitë",
+    "category": "Botime për të rritur",
+    "coverImage": "u24.jpg",
+    "price": "1000 Lekë",
+    "author": "Ilir Cenollari ",
+    "fullDescription": "A është mali Tomor, treva ku Dodona Pellazgjike ka nismën e vetë?! A është mali mitik shqiptar, pika që sot vizitohet nga qindra e mijëra pelegrinë, vendi ku Dodona Pellazgjike ka “banesën” më të hershme se gjetjet arkeologjike në Janinë?! Cilët ishin fiset që banonin rreth Malit të Shenjtë, në periudhën e hershme dhe cilat janë lidhjet e vazhdimësisë, sipas studiueseve dhe gjetjeve arkeologjike?! Këto e të tjera përgjigje, të pyetjeve jep, libri me titull “Profecitë e Zotit të Tomorrit”, vepër studimore ku autori Ilir Cenollari sjell tek lexuesi, me burime historike nga autorë të lashtësisë dhe të ditëve tona. Duke iu shmangur patriotizmës fals, autori shkencërisht sjell para lexuesit fakte dhe krahasime nga autorë të lashtë si Homeri, Hosiodi, Stefan Bizantini, Hetakeu, Eskili, Pindari, Aristoteli, Horodoti, Plutarku, Polibi, Straboni, Titi Livi, Apolodori, Plini etj etj. të cilat i krahason me studimet për gjetjet arkeologjike dhe studime gjuhësore të shkencëtarëve më në zë në Evropë e në botë, albanolog e jo të tillë, të cilët kanë debatuar për shenjtërinë e Malit Tomor. Referencat që ka bërë autori me pohimet e autorëve të lashtë si Tuqididi, Stefan Bizantini, Hygini, Ovidi etj. si dhe studimet e disa albanologëve të shquar me të cilët ai këshillohet sjellin tek lexuesi jetesën dhe bëmat e fiseve para ilire dhe ato ilire rreth Dodonës, në Arkadi, por edhe gjuhën dhe veshjet e tyre."
+  },
+  {
+    "id": 81,
+    "title": " Pranvera dhe Dimri i Aviacionit Shqipëtar",
+    "description": " Roman ",
+    "category": "Botime për të rritur",
+    "coverImage": "u25.jpg",
+    "price": "800 Lekë",
+    "author": "Fillota Koruni",
+    "fullDescription": "Shtëpia Botuese “Jonalda”, nxori në qarkullim një librin me titull: “Pranvera dhe dimri i aviacionit shqiptar” të autorit Fillota Koruni. Autori, inxhinier, veteran i aviacionit shqiptar, nëpërmjet dokumenteve të shumta arkivore, me kujtime të efektivave të aviacionit dhe me mbi 450 foto, bënë një panoramë të plot të historisë së aviacionit dhe aviatorëve në vendin tonë. Libri përcjell tek lexuesi punën dhe përpjekjet titanike të efektivave të aviacionit shqiptar në vite por sidomos në kthesa të rëndësishme historike, atëherë kur politika ndërronte drejtim. Që nga avionët e parë në Shqipëri e deri tek më modernit, që nga fotografia e parë, në vitin 1925, e bërë në Korçë, e deri tek fotot nga Muzeu i Aviacionit, në Londër (Sepse në ato kohë edhe fotot ishin sekret). Lindja e aviacionit dhe rritja e tij duke kaluar nëpër labirintet e viteve kur lulëzonte politika dhe ndërroheshin miqësitë me Italinë, Jugosllavinë, Bashkimin Sovjetik, Kinën etj. Kontradikta midis burrave të shtetit dhe intimitete të aviatorëve dhe efektivave shqiptar, francez, austriak, gjerman, rus dhe kinez. Shumë histori, traditë dhe kuriozitete në një libër me 380 faqe dhe çmim kopertine 800 lekë."
+  },
+  {
+    "id": 82,
+    "title": "Përse e Vranë Dianën",
+    "description": " Roman ",
+    "category": "Botime për të rritur",
+    "coverImage": "u26.jpg",
+    "price": "500 Lekë",
+    "author": "Osman Qystri",
+    "fullDescription": "Osman Qystri është një oficer policie me një përvojë të gjatë në karrierën e tij sidomos në fushën e kriminalistikës. Romani në fjalë nuk është i pari por nisur edhe nga formimi, përvoja e punës dhe ngjarja që zgjedh për ta përshkruar është nga më interesantet. Romani tranton një temë sa shoqërore dhe familjare, kontradita që kanë ndodhur brenda në familje dhe në shoqëri të ngushta në Shqipëri. Vrasja ndodh në një fshat në rrethinat e një qyteti ku ngjarjet brenda tij zienin por akoma nuk kishin filluar të shpërthenin në vitin 1997. Ndërthurja e skemave, mpleksja e personazheve, situatat e ngatërruara brenda vllazërisë dhe fisit si dhe puna profesionale por edhe mefshtësia e disa prej punonjësve të policisë dhe të drejtësisë e bëjnë romanin sa interesant aq edhe të duhurin për ta lexuar me një frymë. Autori ka stil të mirë në të shkruar dhe të përshkruarit të situatave."
+  },
+  {
+    "id": 83,
+    "title": " Shpirtrat u Grindën dhe u Zbutën",
+    "description": " Poezi",
+    "category": "Botime për të rritur",
+    "coverImage": "u27.jpg",
+    "price": "500 Lekë",
+    "author": "Tahir Hysen Tanushi",
+    "fullDescription": "Poeti elbasanas, Tahir Tanushi, nёpёrmjet Shtёpisё Botuese ‘Jonalda’, ka prezantuar tek lexuesi librin e tij me poezi ‘Shpirtrat u grindën dhe u zbutёn’. Tashmё z. Tanushi ka edhe tre libra tё tjerë, me poezi, pёr plotësuar tek lexuesi kolanёn me 7 libra, tё serisë shpirtërore, nga tё cilat katёr i ka botuar. Tanushi, e ka formuar profilin e vetë poetik duke qёnë dinjitoz nё krijimtarinë e tij. Ёshtё ekonomist nё profesion dhe oficer policie nё detyrё por qё di t’i jap vlera vargut poetik. Kursimtar i fjalës ashtu si strikt nё shifrat si financier, skurpuloz nё gjetje ashtu si profesioni me uniformë, autori paraqitet i veçantë dhe triumfator nё krijimtarinë e fundme tё botuar nё kёtë libër."
+  },
+  {
+    "id": 84,
+    "title": "Puthja e Fundit",
+    "description": " Poemë ",
+    "category": "Botime për të rritur",
+    "coverImage": "u28.jpg",
+    "price": "300 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Një amanet në moshën e rinisë i cili realizohet në moshën e tretë, në pleqëri. Në rrethana të ndryshme dhe nga vende të ndryshme personazhet i lidh fati i tyre i përbashkët. Në vitet e Luftës së Dytë Botërore një ushtarak italian (Pushtues) njihet dhe dashurohet me një vajzë shqiptare. Në momentet e ndarjes i premtojnë njëri-tjetrit dhe do të jetojnë gjithë jetën bashkë por nuk munden. Regjimet i ndanë fizikisht por jo përzemërsisht. Në vitin 1990 emigrantë shqiptarë mbërrijnë në Itali ndërsa gjyshi me nipin e tij vijnë në Shqipëri për të sosur amanetin e plakut kur ishte i ri; të takoj vajzën që aq shumë e deshi e cila mund ta kishte pritur tërë jetën. Por kohët dhe mentalitetet kanë bërë të tyren. I moshuari nga Italia kthehet dhe gjenë djalin e tij me fëmijë ndërsa kur kërkon të takoj atë që donte dikur shkon tek varri i saj dhe atje i pushon zemra. Libri është sa prekës aq edhe tërheqës për ta lexuar jo vetëm nga fabula dhe mesazhi që përcjellë por edhe nga niveli i arritjes artistike e letrare."
+  },
+  {
+    "id": 85,
+    "title": " Sic më the ti",
+    "description": " Poezi ",
+    "category": "Botime për të rritur",
+    "coverImage": "u29.jpg",
+    "price": "400 Lekë",
+    "author": "Shefqet Sulmina",
+    "fullDescription": "Shefqet Sulmina, autor elbasanas vjen tek lexuesi me librin e tij me poezi të titulluar 'Siç më the ti'. E ka librin e dytë që boton pas shumë e shumë shkrimesh e botimesh nëpër faqet e shtypit. Tashmë i formuar në teknikë, i zgjedhur në gjetje dhe i thellë në mendime autori vjen më dinjitoz tek lexuesi i tij. Tek ky botim i tij mëshirohet më së miri dashuria e shenjtë për fjalën, kujdesi dhe respekti për të. Autori është 'armik' i fjalëve të huaja, por nuk e ngre nga vendi e ta përzërë kurrë një fjalë shqipe, të bukur për një fjalë të huaj, qoftë kjo më e bukura e dheut. Dhimbja njerëzore, e dalë nga një shpirt bujar, nuk krijon kurrë dëshpërim e fanatizëm në krijimtarinë e tij, por përkundrazi, duke ruajtur urtësinë dhe butësinë, Autori, synon të zgjojë dashuri të reja, shpresa të reja dhe të lartësojë dinjitetin e një njeriu krenar."
+  },
+  {
+    "id": 86,
+    "title": "Tregoj Nga Jeta Ime",
+    "description": " Kujtime ",
+    "category": "Botime për të rritur",
+    "coverImage": "u30.jpg",
+    "price": "400 Lekë",
+    "author": "Riza Bregu",
+    "fullDescription": "Riza Bregu, drejtues dhe një nga figurat e njohura në Skrapar ka mbajtur shënime dhe kujtime gjatë punës së tij me njerëzit në sektorë të ndryshëm. Figura, njerëz, karaktere, peripeci të punës dhe sfida të jetës ka në shënimet e tij. Është një libër sa tërheqës në të përshkruar aq edhe i duhur nga ana e informacionit dhe njohjes së jetës në ato vite kur në Rrethin e Skraparit punohej dhe sfidoheshin vështirësitë nga ai komunitet."
+  },
+  {
+    "id": 87,
+    "title": " Operacioni",
+    "description": " Ujqërit e errësires. ",
+    "category": "Botime për të rritur",
+    "coverImage": "u31.jpg",
+    "price": "500 Lekë",
+    "author": "Osman Qystri",
+    "fullDescription": "Roman me temë nga veprimtaria e policisë së shtetit, por këtë radhë autori Osman Qystri vjen me temën e marë nga koha e viteve të socializmit, atëherë kur policia luftonte edhe kundër armikut të brendëshëm sidomos të sabotatorëve dhe diversantëve që punonin kundër regjimit. Në roman vjen një ngjarje e vërtetë me emrat e personazheve të ndryshuar, natyrshëm me përshkrimin e duhur në prozë. Romani është tërheqës për nga përshkrimi e ngjarja aq sa dikush që është nga zona që tregohen do e kujtojë patjetër qoftë edhe nga mënyra e përshkrimit të peisazheve dhe karakterit popullor të banorëve të atjeshëm."
+  },
+  {
+    "id": 88,
+    "title": "Skrapari Visore dhe Visare",
+    "description": " Studim Etno-Kulturor ",
+    "category": "Botime për të rritur",
+    "coverImage": "u32.jpg",
+    "price": "500 Lekë",
+    "author": "Zylyftar Plaku",
+    "fullDescription": "Është studim Etno-kulturor për rrethin e Skraparit me autor Zylyftar Plaku. Në libër paraqitet krahina e Skraparit me natyrën, historinë, traditat, zakonet, karakterin, tiparet dhe gjuhën krahinore tek banorët. Në libër përshkruhen edhe ndryshimet e tyre në kontekst të shekujve, dekadave dhe viteve. Autori ka edhe një dedikim, i cili është: “Në shenjë respekti për të gjithë skraparlnjtë, të cilët kudo që janë vendosur me banim, jo vetëm nuk e harrojnë vendlindjen dhe krenohen me të, por edukojnë pasardhësit e tyre, që lindin e jetojnë në qytete të mëdha dhe evropiane, me krenari të pohojnë: 'Jam nga Skrapari!'"
+  },
+  {
+    "id": 89,
+    "title": " Vlusha Jonë",
+    "description": " Vlusha Jonë ",
+    "category": "Botime për të rritur",
+    "coverImage": "u33.jpg",
+    "price": "300 Lekë",
+    "author": "Luman H. Caka",
+    "fullDescription": "Është libër me përshkrime dhe ngjarje historike për fshatin Vlushë në rrethin e Skraparit. Vlusha një fshat jo i vogël që ka mbajtur edhe ajo peshën e historisë së krahinës ka edhe rritjet dhe rënien e saj në vendbanim. Momente të tillë, ngjarje historike e ndodhi grupimesh sipas fiseve, portrete njerëzish të lindur e të rritur atje por që kanë bërë emër të mirë në krahinë e më gjerë, vijnë nëpërmjet faqeve të këtij libri. Fiset dhe familjet sipas fiseve në fshatin Vlushë vijnë nëpërmjet skemave të tyre por edhe të fotografive të shumta të cilat autori i ka sjell në botim. Është një libër i rëndësishëm për lexuesin që kërkon të njoh atë fshat e krahinë por sidomos i vlefshëm si dokument në të ardhmen për studiues të ndryshëm."
+  }
+  
+]
